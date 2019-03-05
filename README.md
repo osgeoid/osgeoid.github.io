@@ -5,6 +5,11 @@ OSGeo US website
 
 Please use the directions from [this repo](https://github.com/ahmadawais/Emoji-Log)
 
+- Make your Git commit messages imperative.
+- Write commit message like you're giving an order.
+- A small number of categories — easy to memorize.
+- Nothing more nothing less.
+
 ## examples
 
 - :package: NEW:
