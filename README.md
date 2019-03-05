@@ -12,6 +12,7 @@ Please use the directions from [this repo](https://github.com/ahmadawais/Emoji-L
 
 ## examples
 
+- :tada: INITIAL:
 - :package: NEW:
 - :ok_hand: IMPROVE:
 - :bug: FIX:
