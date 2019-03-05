@@ -1,7 +1,7 @@
 # OSGeo-US.github.io
 OSGeo US website
 
-## Setup new standard for Git commit
+## Git Commit Standard (Emoji-Log)
 
 Please use the directions from [this repo](https://github.com/ahmadawais/Emoji-Log)
 
