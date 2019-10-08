@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OSGeo US</title>
-    <link>http://OSGeo-US.github.io/</link>
-    <description>Recent content on OSGeo US</description>
+    <title>OSGeo ID</title>
+    <link>http://osgeoid.github.io/</link>
+    <description>Konten terakhir OSGeo ID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://OSGeo-US.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://osgeoid.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Us</title>
-      <link>http://OSGeo-US.github.io/about/</link>
+      <title>Tentang Kami</title>
+      <link>http://osgeoid.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://OSGeo-US.github.io/about/</guid>
+      <guid>http://osgeoid.github.io/about/</guid>
       <description></description>
     </item>
     

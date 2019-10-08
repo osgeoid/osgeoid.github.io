@@ -1,5 +1,8 @@
-# OSGeo-US.github.io
-OSGeo US website
+# OSGeoID.github.io
+
+Website OSGeo ID
+
+Dibuat berdasarkan website [OSGeo US](https://osgeo.us), [sumber](https://github.com/OSGeo-US/OSGeo-US.github.io)
 
 ## Git Commit Standard (Emoji-Log)
 
