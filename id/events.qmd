@@ -1,0 +1,101 @@
+---
+title: "Acara"
+pagetitle: "Acara - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Acara
+Lokakarya, pertemuan, dan konferensi di seluruh Indonesia
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Acara Mendatang
+
+<!-- ::: {.event-item} -->
+<!-- ::: {.event-date} -->
+<!-- [MEI]{.month} -->
+<!-- [20]{.day} -->
+<!-- ::: -->
+<!-- ::: {.event-info} -->
+<!-- #### Pertemuan Bulanan OSGeo Indonesia - Bandung -->
+<!-- **Lokasi:** Bandung, Indonesia -->
+
+<!-- Pertemuan komunitas bulanan yang menampilkan presentasi singkat tentang teknologi geospasial sumber terbuka, pembaruan proyek, dan jejaring. -->
+<!-- ::: -->
+<!-- ::: -->
+
+::: {.event-item}
+::: {.event-date}
+[JUL]{.month}
+[TBA]{.day}
+:::
+::: {.event-info}
+#### Lokakarya PostGIS & Basis Data Spasial
+**Lokasi:** Tembalang, Semarang, Indonesia
+
+Pelajari cara mengelola dan menganalisis data geospasial menggunakan PostGIS dan PostgreSQL. Mencakup instalasi, kueri spasial, pengindeksan, dan integrasi dengan QGIS.
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[AGT]{.month}
+[25]{.day}
+:::
+::: {.event-info}
+#### Mapathon OpenStreetMap
+**Lokasi:** Daring / Berbagai Lokasi
+
+Acara pemetaan kolaboratif untuk meningkatkan cakupan OpenStreetMap di wilayah Indonesia. Semua tingkat keahlian dipersilakan — kami menyediakan pelatihan!
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[AGT]{.month}
+[30]{.day}
+:::
+::: {.event-info}
+#### FOSS4G Hiroshima 2026
+**Lokasi:** Hiroshima, Jepang
+**Tanggal:** 30 Agustus – 3 September 2026
+
+Konferensi geospasial sumber terbuka global hadir di Hiroshima, Jepang. Bergabunglah dengan komunitas geospasial internasional untuk presentasi, lokakarya, dan jejaring. Delegasi OSGeo Indonesia dipersilakan!
+:::
+:::
+
+## Acara Sebelumnya
+
+### 2025
+
+- **FOSS4G 2025** — Auckland, Selandia Baru (delegasi OSGeo Indonesia)
+- **Seri Lokakarya QGIS** — Jakarta, Bandung, Surabaya
+- **Pertemuan Tahunan OSGeo Indonesia** — Yogyakarta
+- **Mapathon OpenStreetMap Kemanusiaan** — Daring, partisipasi nasional
+
+### 2024
+
+- **FOSS4G Asia 2024** — Partisipasi komunitas
+- **Lokakarya Pelatihan GeoNode** — Jakarta
+- **Hari Data Terbuka Indonesia** — Berbagai kota
+- **Perayaan Hari GIS Universitas** — Universitas mitra di seluruh Indonesia
+
+### 2019
+
+- **[Meet up Perdana OSGeo ID](https://twitter.com/osgeoid/status/1180163569993650176)** — 4 Oktober 2019, pertemuan komunitas pertama chapter
+
+## Selenggarakan Acara
+
+Tertarik menyelenggarakan acara OSGeo Indonesia di kota atau institusi Anda? Kami menyediakan:
+
+- Materi dan kurikulum lokakarya
+- Koneksi pembicara dan pelatih
+- Promosi melalui saluran komunitas kami
+- Branding dan dukungan OSGeo
+
+[Hubungi kami](contact.qmd) untuk mendiskusikan penyelenggaraan acara.
+
+:::
+:::

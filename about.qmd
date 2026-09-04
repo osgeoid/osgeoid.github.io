@@ -1,0 +1,51 @@
+---
+title: "About OSGeo Indonesia"
+pagetitle: "About - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# About OSGeo Indonesia
+Our mission, vision, and the people behind the local chapter.
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Our Mission
+
+OSGeo Indonesia is the official Indonesian local chapter of the [Open Source Geospatial Foundation (OSGeo)](https://www.osgeo.org/). We are dedicated to fostering the adoption and development of open source geospatial technologies throughout Indonesia.
+
+As the world's largest archipelagic nation with over 17,000 islands, Indonesia faces unique geospatial challenges — from disaster management and environmental monitoring to urban planning and maritime governance. Open source geospatial tools provide accessible, powerful, and adaptable solutions for these challenges.
+
+## Our Vision
+
+- **Promote** open source geospatial software and open data across Indonesian institutions
+- **Support** the development and localization of geospatial tools for Indonesian users
+- **Connect** geospatial professionals, researchers, and students across the archipelago
+- **Educate** the next generation of geospatial professionals through open source tools
+- **Advocate** for open standards and open data policies in Indonesia's geospatial infrastructure
+
+## About OSGeo
+
+The [Open Source Geospatial Foundation (OSGeo)](https://www.osgeo.org/) is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community-driven development.
+
+OSGeo serves as an umbrella organization for over 40 open source geospatial projects, including QGIS, GDAL, PostGIS, GeoServer, and many more. Through its local chapters worldwide, OSGeo promotes community building and open source advocacy at the regional level.
+
+## History
+
+OSGeo Indonesia was established to bring together the growing community of open source geospatial users and developers in Indonesia. With the rapid growth of GIS adoption in Indonesian government agencies, universities, and private sector organizations, there is an increasing need for accessible, cost-effective, and powerful geospatial tools.
+
+Our chapter has been actively involved in:
+
+- Organizing QGIS and open source GIS workshops across major Indonesian cities
+- Participating in FOSS4G and FOSS4G Asia conferences
+- Contributing to OpenStreetMap Indonesia's humanitarian mapping efforts
+- Supporting the Indonesian geospatial data infrastructure through open standards
+- Collaborating with universities through the Geo for All initiative
+
+## Affiliation
+
+OSGeo Indonesia operates as an official local chapter of the Open Source Geospatial Foundation. We follow the [OSGeo Charter](https://www.osgeo.org/about/charter/) and [Code of Conduct](https://www.osgeo.org/code_of_conduct/) in all our activities.
+
+:::
+:::

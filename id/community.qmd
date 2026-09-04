@@ -1,0 +1,131 @@
+---
+title: "Komunitas"
+pagetitle: "Komunitas - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Komunitas
+Bergabunglah dengan komunitas geospasial sumber terbuka Indonesia
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Selamat Datang di OSGeo Indonesia
+
+Komunitas OSGeo Indonesia menyatukan para profesional geospasial, pengembang, peneliti, mahasiswa, dan peminat dari seluruh kepulauan Indonesia. Baik Anda seorang ahli GIS berpengalaman maupun baru memulai, ada tempat untuk Anda di sini.
+
+## Cara Bergabung
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-bottom: 3rem;"}
+
+::: {.feature-card}
+::: {.card-icon}
+💬
+:::
+
+### Bergabung dalam Diskusi
+Terhubung dengan sesama anggota komunitas di [milis `indonesia`](https://lists.osgeo.org/mailman/listinfo/indonesia) dan [grup Telegram](https://t.me/osgeoid) kami. Berbagi pengetahuan, bertanya, dan berkolaborasi dalam proyek.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🗓️
+:::
+
+### Hadiri Acara
+Bergabunglah dalam lokakarya, pertemuan, dan konferensi kami yang diadakan di seluruh Indonesia. Dari tutorial pemula hingga sesi teknis lanjutan.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+💻
+:::
+
+### Kontribusi Kode
+Bantu tingkatkan proyek geospasial sumber terbuka. Baik itu memperbaiki bug, menambah fitur, menulis dokumentasi, atau menerjemahkan — setiap kontribusi berarti.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🗺️
+:::
+
+### Petakan Bersama Kami
+Bergabunglah dalam kegiatan pemetaan OpenStreetMap dan acara pemetaan kemanusiaan. Bantu tingkatkan peta Indonesia.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🎓
+:::
+
+### Geo for All
+Inisiatif akademik kami menghubungkan universitas di seluruh Indonesia untuk mempromosikan pendidikan dan penelitian geospasial sumber terbuka.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+📢
+:::
+
+### Sebarkan Informasi
+Bantu promosikan teknologi geospasial sumber terbuka di organisasi, komunitas, atau universitas Anda.
+:::
+
+:::
+
+## Kanal Komunitas
+
+Semua kanal yang digunakan chapter bersifat terbuka dan publik — pilih yang paling sesuai untuk Anda:
+
+| Kanal | Kegunaan | Tautan |
+|---|---|---|
+| **Milis** | Pengumuman resmi dan diskusi panjang | [lists.osgeo.org/mailman/listinfo/indonesia](https://lists.osgeo.org/mailman/listinfo/indonesia) |
+| **Telegram** | Tanya jawab harian dan bantuan cepat | [t.me/osgeoid](https://t.me/osgeoid) |
+| **Wiki** | Dokumentasi chapter, notulen, dan riwayat | [wiki.osgeo.org/wiki/OSGeoID](https://wiki.osgeo.org/wiki/OSGeoID) |
+| **GitHub** | Kode, data, dan situs web ini | [github.com/osgeoid](https://github.com/osgeoid) |
+| **Twitter/X** | Berita dan pengumuman acara | [@osgeoid](https://twitter.com/osgeoid) |
+
+Milis dikelola di infrastruktur milik OSGeo dan menjadi kanal resmi untuk urusan chapter.
+Anggota baru disarankan berlangganan di sana terlebih dahulu.
+
+## Komunitas Regional
+
+Komunitas geospasial sumber terbuka Indonesia tersebar di seluruh Nusantara. Kami memiliki anggota dan kontributor aktif di kota-kota besar termasuk:
+
+- **Jakarta** — Instansi pemerintah, LSM, dan sektor swasta
+- **Bandung** — Kelompok penelitian universitas dan komunitas teknologi
+- **Yogyakarta** — Institusi akademik dan komunitas pemetaan
+- **Surabaya** — Pemerintah daerah dan organisasi pembangunan
+- **Makassar** — Pusat geospasial Indonesia Timur
+- **Denpasar** — Pemetaan pariwisata dan lingkungan
+- **Medan** — Komunitas regional Sumatera
+
+## Universitas
+
+Mitra akademik yang memajukan pendidikan dan penelitian geospasial sumber terbuka di seluruh Indonesia:
+
+- **Departemen Teknik Geodesi, Universitas Diponegoro** — Semarang
+  Narahubung: Dr. Firman Hadi, S.Si., M.T.
+
+## Inisiatif OSGeo
+
+### FOSS4G
+Konferensi global untuk Perangkat Lunak Bebas dan Sumber Terbuka untuk Geospasial. Anggota OSGeo Indonesia secara aktif berpartisipasi dan mempresentasikan di acara FOSS4G dan FOSS4G Asia.
+
+### Google Summer of Code (GSoC)
+OSGeo berpartisipasi sebagai organisasi mentor di GSoC. Mahasiswa Indonesia dapat berkontribusi pada proyek geospasial sumber terbuka dengan bimbingan dari komunitas global.
+
+### Geo for All
+Inisiatif untuk membuat pendidikan dan kesempatan geospasial dapat diakses oleh semua. Kami bermitra dengan universitas Indonesia untuk mengintegrasikan perangkat geospasial sumber terbuka ke dalam kurikulum.
+
+### OSGeoLive
+DVD/USB bootable mandiri dengan perangkat lunak geospasial sumber terbuka yang telah dikonfigurasi. Kami menggunakannya secara ekstensif dalam lokakarya di seluruh Indonesia.
+
+## Kode Etik
+
+Semua kegiatan komunitas OSGeo Indonesia mengikuti [Kode Etik OSGeo](https://www.osgeo.org/code_of_conduct/). Kami berkomitmen untuk menyediakan lingkungan yang ramah dan inklusif bagi semua orang, tanpa memandang gender, identitas gender, orientasi seksual, disabilitas, penampilan fisik, ukuran tubuh, ras, etnis, usia, agama, atau kebangsaan.
+
+:::
+:::

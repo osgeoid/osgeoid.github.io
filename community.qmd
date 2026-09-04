@@ -1,0 +1,131 @@
+---
+title: "Community"
+pagetitle: "Community - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Community
+Join the Indonesian open source geospatial community
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Welcome to OSGeo Indonesia
+
+The OSGeo Indonesia community brings together geospatial professionals, developers, researchers, students, and enthusiasts from across the Indonesian archipelago. Whether you're a seasoned GIS expert or just getting started, there's a place for you here.
+
+## How to Get Involved
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-bottom: 3rem;"}
+
+::: {.feature-card}
+::: {.card-icon}
+💬
+:::
+
+### Join the Discussion
+Connect with fellow community members on the [`indonesia` mailing list](https://lists.osgeo.org/mailman/listinfo/indonesia) and our [Telegram group](https://t.me/osgeoid). Share knowledge, ask questions, and collaborate on projects.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🗓️
+:::
+
+### Attend Events
+Join our workshops, meetups, and conferences held across Indonesia. From beginner tutorials to advanced technical sessions.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+💻
+:::
+
+### Contribute Code
+Help improve open source geospatial projects. Whether it's fixing bugs, adding features, writing documentation, or translating — every contribution matters.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🗺️
+:::
+
+### Map with Us
+Join OpenStreetMap mapping activities and humanitarian mapping events. Help improve the map of Indonesia.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🎓
+:::
+
+### Geo for All
+Our academic initiative connects universities across Indonesia to promote open source geospatial education and research.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+📢
+:::
+
+### Spread the Word
+Help promote open source geospatial technologies in your organization, community, or university.
+:::
+
+:::
+
+## Community Channels
+
+Everything the chapter runs on is open and public — pick whichever suits you:
+
+| Channel | What it's for | Where |
+|---|---|---|
+| **Mailing list** | Official announcements and longer discussions | [lists.osgeo.org/mailman/listinfo/indonesia](https://lists.osgeo.org/mailman/listinfo/indonesia) |
+| **Telegram** | Day-to-day questions and quick help | [t.me/osgeoid](https://t.me/osgeoid) |
+| **Wiki** | Chapter documentation, meeting notes, and history | [wiki.osgeo.org/wiki/OSGeoID](https://wiki.osgeo.org/wiki/OSGeoID) |
+| **GitHub** | Code, data, and this website | [github.com/osgeoid](https://github.com/osgeoid) |
+| **Twitter/X** | News and event announcements | [@osgeoid](https://twitter.com/osgeoid) |
+
+The mailing list is hosted on OSGeo's own infrastructure and is the channel of record for
+chapter business. New members are encouraged to subscribe there first.
+
+## Regional Communities
+
+Indonesia's geospatial open source community spans the entire archipelago. We have active members and contributors in major cities including:
+
+- **Jakarta** — Government agencies, NGOs, and the private sector
+- **Bandung** — University research groups and tech communities
+- **Yogyakarta** — Academic institutions and mapping communities
+- **Surabaya** — Regional government and development organizations
+- **Makassar** — Eastern Indonesia geospatial hub
+- **Denpasar** — Tourism and environmental mapping
+- **Medan** — Sumatra regional community
+
+## Universities
+
+Academic partners advancing open source geospatial education and research across Indonesia:
+
+- **Department of Geodetic Engineering, Universitas Diponegoro** — Semarang
+  Contact person: Dr. Firman Hadi, S.Si., M.T.
+
+## OSGeo Initiatives
+
+### FOSS4G
+The global conference for Free and Open Source Software for Geospatial. OSGeo Indonesia members actively participate and present at FOSS4G and FOSS4G Asia events.
+
+### Google Summer of Code (GSoC)
+OSGeo participates as a mentoring organization in GSoC. Indonesian students can contribute to geospatial open source projects with mentorship from the global community.
+
+### Geo for All
+An initiative to make geospatial education and opportunities accessible to all. We partner with Indonesian universities to integrate open source geospatial tools into curricula.
+
+### OSGeoLive
+A self-contained bootable DVD/USB with pre-configured open source geospatial software. We use this extensively in workshops across Indonesia.
+
+## Code of Conduct
+
+All OSGeo Indonesia community activities follow the [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/). We are committed to providing a welcoming and inclusive environment for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or nationality.
+
+:::
+:::

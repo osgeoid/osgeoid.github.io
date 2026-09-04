@@ -1,0 +1,450 @@
+[
+  {
+    "objectID": "id/about.html",
+    "href": "id/about.html",
+    "title": "Tentang OSGeo Indonesia",
+    "section": "",
+    "text": "Misi, visi, dan orang-orang di balik chapter lokal ini."
+  },
+  {
+    "objectID": "id/about.html#misi-kami",
+    "href": "id/about.html#misi-kami",
+    "title": "Tentang OSGeo Indonesia",
+    "section": "Misi Kami",
+    "text": "Misi Kami\nOSGeo Indonesia adalah chapter lokal resmi Indonesia dari Open Source Geospatial Foundation (OSGeo). Kami berdedikasi untuk mendorong adopsi dan pengembangan teknologi geospasial sumber terbuka di seluruh Indonesia.\nSebagai negara kepulauan terbesar di dunia dengan lebih dari 17.000 pulau, Indonesia menghadapi tantangan geospasial yang unik — mulai dari manajemen bencana dan pemantauan lingkungan hingga perencanaan kota dan tata kelola maritim. Perangkat geospasial sumber terbuka menyediakan solusi yang mudah diakses, andal, dan dapat disesuaikan untuk tantangan-tantangan ini."
+  },
+  {
+    "objectID": "id/about.html#visi-kami",
+    "href": "id/about.html#visi-kami",
+    "title": "Tentang OSGeo Indonesia",
+    "section": "Visi Kami",
+    "text": "Visi Kami\n\nMempromosikan perangkat lunak geospasial sumber terbuka dan data terbuka di seluruh institusi Indonesia\nMendukung pengembangan dan lokalisasi perangkat geospasial untuk pengguna Indonesia\nMenghubungkan para profesional geospasial, peneliti, dan mahasiswa di seluruh Nusantara\nMendidik generasi penerus profesional geospasial melalui perangkat sumber terbuka\nMengadvokasi standar terbuka dan kebijakan data terbuka dalam infrastruktur geospasial Indonesia"
+  },
+  {
+    "objectID": "id/about.html#tentang-osgeo",
+    "href": "id/about.html#tentang-osgeo",
+    "title": "Tentang OSGeo Indonesia",
+    "section": "Tentang OSGeo",
+    "text": "Tentang OSGeo\nOpen Source Geospatial Foundation (OSGeo) adalah organisasi nirlaba yang misinya mendorong adopsi global teknologi geospasial terbuka dengan menjadi yayasan perangkat lunak inklusif yang mengabdi pada filosofi terbuka dan pengembangan berbasis komunitas partisipatif.\nOSGeo berperan sebagai organisasi payung untuk lebih dari 40 proyek geospasial sumber terbuka, termasuk QGIS, GDAL, PostGIS, GeoServer, dan banyak lagi. Melalui chapter lokalnya di seluruh dunia, OSGeo mempromosikan pembangunan komunitas dan advokasi sumber terbuka di tingkat regional."
+  },
+  {
+    "objectID": "id/about.html#sejarah",
+    "href": "id/about.html#sejarah",
+    "title": "Tentang OSGeo Indonesia",
+    "section": "Sejarah",
+    "text": "Sejarah\nOSGeo Indonesia didirikan untuk menyatukan komunitas pengguna dan pengembang geospasial sumber terbuka yang terus berkembang di Indonesia. Dengan pesatnya pertumbuhan adopsi GIS di instansi pemerintah, universitas, dan organisasi sektor swasta Indonesia, kebutuhan akan perangkat geospasial yang mudah diakses, hemat biaya, dan andal semakin meningkat.\nChapter kami telah aktif terlibat dalam:\n\nMenyelenggarakan lokakarya QGIS dan GIS sumber terbuka di berbagai kota besar Indonesia\nBerpartisipasi dalam konferensi FOSS4G dan FOSS4G Asia\nBerkontribusi pada upaya pemetaan kemanusiaan OpenStreetMap Indonesia\nMendukung infrastruktur data geospasial Indonesia melalui standar terbuka\nBerkolaborasi dengan universitas melalui inisiatif Geo for All"
+  },
+  {
+    "objectID": "id/about.html#afiliasi",
+    "href": "id/about.html#afiliasi",
+    "title": "Tentang OSGeo Indonesia",
+    "section": "Afiliasi",
+    "text": "Afiliasi\nOSGeo Indonesia beroperasi sebagai chapter lokal resmi dari Open Source Geospatial Foundation. Kami mengikuti Piagam OSGeo dan Kode Etik dalam semua kegiatan kami."
+  },
+  {
+    "objectID": "id/projects.html",
+    "href": "id/projects.html",
+    "title": "Proyek",
+    "section": "",
+    "text": "Andal, aman, dan fleksibel — sumber terbuka memberi Anda kebebasan untuk melakukan analisis geospasial sesuai keinginan."
+  },
+  {
+    "objectID": "id/projects.html#aplikasi-desktop",
+    "href": "id/projects.html#aplikasi-desktop",
+    "title": "Proyek",
+    "section": "Aplikasi Desktop",
+    "text": "Aplikasi Desktop\n\n\nQGIS\nGIS desktop sumber terbuka terkemuka. Buat, edit, visualisasikan, analisis, dan publikasikan informasi geospasial. QGIS telah diadopsi secara luas di instansi pemerintah, universitas, dan LSM Indonesia.\nKunjungi Proyek →\n\n\nGRASS GIS\nGeographic Resources Analysis Support System. Rangkaian perangkat yang andal untuk manajemen data geospasial, pengolahan citra, pemodelan spasial, dan visualisasi dengan lebih dari 500 modul.\nKunjungi Proyek →\n\n\ngvSIG\nAplikasi GIS desktop yang dirancang untuk mengakuisisi, menyimpan, menangani, menganalisis, dan menyebarkan informasi geografis. Tersedia dalam Bahasa Indonesia.\nKunjungi Proyek →"
+  },
+  {
+    "objectID": "id/projects.html#pustaka-geospasial",
+    "href": "id/projects.html#pustaka-geospasial",
+    "title": "Proyek",
+    "section": "Pustaka Geospasial",
+    "text": "Pustaka Geospasial\n\n\nGDAL/OGR\nPustaka penerjemah penting untuk format data geospasial raster dan vektor. Mendukung ratusan format dan merupakan tulang punggung sebagian besar perangkat lunak geospasial.\nKunjungi Proyek →\n\n\nGEOS\nGeometry Engine Open Source. Pustaka C/C++ untuk geometri komputasi dengan fokus pada algoritma yang digunakan dalam perangkat lunak sistem informasi geografis.\nKunjungi Proyek →\n\n\nPROJ\nPustaka proyeksi kartografi dan transformasi koordinat. Penting untuk bekerja dengan berbagai sistem referensi koordinat Indonesia.\nKunjungi Proyek →"
+  },
+  {
+    "objectID": "id/projects.html#pemetaan-web",
+    "href": "id/projects.html#pemetaan-web",
+    "title": "Proyek",
+    "section": "Pemetaan Web",
+    "text": "Pemetaan Web\n\n\nGeoServer\nServer sumber terbuka untuk berbagi data geospasial. Dirancang untuk interoperabilitas, mempublikasikan data dari sumber data spasial utama menggunakan standar terbuka (WMS, WFS, WCS).\nKunjungi Proyek →\n\n\nMapServer\nPlatform untuk mempublikasikan data spasial dan aplikasi pemetaan interaktif ke web. Mendukung standar OGC dan berjalan di semua sistem operasi utama.\nKunjungi Proyek →\n\n\nOpenLayers\nPustaka JavaScript berperforma tinggi dan kaya fitur untuk membuat peta interaktif di web. Mendukung banyak aplikasi geoportal Indonesia.\nKunjungi Proyek →\n\n\nLeaflet\nPustaka JavaScript sumber terbuka terkemuka untuk peta interaktif yang ramah perangkat mobile. Ringan dan sempurna untuk aplikasi pemetaan web.\nKunjungi Proyek →"
+  },
+  {
+    "objectID": "id/projects.html#basis-data-spasial",
+    "href": "id/projects.html#basis-data-spasial",
+    "title": "Proyek",
+    "section": "Basis Data Spasial",
+    "text": "Basis Data Spasial\n\n\nPostGIS\nEkstensi basis data spasial untuk PostgreSQL. Menambahkan dukungan untuk objek geografis sehingga kueri lokasi dapat dijalankan dalam SQL. Standar untuk manajemen data geospasial enterprise.\nKunjungi Proyek →\n\n\nSpatiaLite\nEkstensi spasial untuk SQLite. Basis data spasial yang ringan dan mandiri, ideal untuk aplikasi mobile dan embedded.\nKunjungi Proyek →"
+  },
+  {
+    "objectID": "id/projects.html#manajemen-konten-katalog",
+    "href": "id/projects.html#manajemen-konten-katalog",
+    "title": "Proyek",
+    "section": "Manajemen Konten & Katalog",
+    "text": "Manajemen Konten & Katalog\n\n\nGeoNode\nPlatform berbasis web untuk mengembangkan sistem informasi geospasial dan menyebarkan infrastruktur data spasial. Digunakan oleh beberapa instansi Indonesia untuk berbagi data.\nKunjungi Proyek →\n\n\nGeoNetwork\nAplikasi katalog untuk mengelola sumber daya yang bereferensi spasial. Menyediakan fungsi pengeditan dan pencarian metadata serta mendukung standar OGC.\nKunjungi Proyek →\n\n\npycsw\nImplementasi server OGC CSW yang ditulis dalam Python. Memungkinkan publikasi dan penemuan metadata geospasial melalui standar OGC.\nKunjungi Proyek →"
+  },
+  {
+    "objectID": "id/projects.html#proyek-komunitas",
+    "href": "id/projects.html#proyek-komunitas",
+    "title": "Proyek",
+    "section": "Proyek Komunitas",
+    "text": "Proyek Komunitas\n\n\nOpenStreetMap\nPeta dunia yang bebas dan dapat diedit. Indonesia adalah rumah bagi salah satu komunitas OSM paling aktif di dunia, dengan kontribusi signifikan pada pemetaan kemanusiaan.\nKunjungi Proyek →\n\n\nOSGeoLive\nDVD/USB bootable mandiri dengan aplikasi geospasial sumber terbuka yang telah dikonfigurasi. Sempurna untuk lokakarya dan mencoba perangkat lunak geospasial.\nKunjungi Proyek →"
+  },
+  {
+    "objectID": "id/contact.html",
+    "href": "id/contact.html",
+    "title": "Kontak",
+    "section": "",
+    "text": "Terhubung dengan OSGeo Indonesia"
+  },
+  {
+    "objectID": "id/contact.html#terhubung-dengan-kami",
+    "href": "id/contact.html#terhubung-dengan-kami",
+    "title": "Kontak",
+    "section": "Terhubung Dengan Kami",
+    "text": "Terhubung Dengan Kami\nKami senang mendengar dari Anda! Baik Anda memiliki pertanyaan tentang perangkat geospasial sumber terbuka, ingin bergabung dengan komunitas, atau tertarik bermitra dengan kami, jangan ragu untuk menghubungi.\n\n\n\n📧\n\n\nEmail\nUntuk pertanyaan umum dan informasi:\ninfo@osgeo.id\n\n\n\n\n🌐\n\n\nSitus Web\nKunjungi repositori GitHub dan situs web kami:\nosgeo.id\n\n\n\n\n🐦\n\n\nMedia Sosial\nIkuti kami untuk pembaruan dan berita:\n@osgeoid\n\n\n\n\n💬\n\n\nTelegram\nBerbincang dengan komunitas sehari-hari:\nt.me/osgeoid\n\n\n\n\n📖\n\n\nWiki\nDokumentasi chapter di wiki OSGeo:\nwiki.osgeo.org/wiki/OSGeoID\n\n\n\n\n💻\n\n\nGitHub\nKode, data, dan situs web ini:\ngithub.com/osgeoid"
+  },
+  {
+    "objectID": "id/contact.html#milis",
+    "href": "id/contact.html#milis",
+    "title": "Kontak",
+    "section": "Milis",
+    "text": "Milis\nMilis kami dikelola oleh OSGeo dan menjadi kanal diskusi resmi chapter.\nBerlangganan milis indonesia\nSiapa pun dapat bergabung — berlangganan gratis dan terbuka untuk umum. Kami mengirimkan pembaruan rutin tentang:\n\nLokakarya dan acara pelatihan mendatang\nPertemuan komunitas dan konferensi\nBerita geospasial sumber terbuka yang relevan dengan Indonesia\nPeluang kerja dan kolaborasi\n\nArsip diskusi sebelumnya tersedia di lists.osgeo.org/pipermail/indonesia."
+  },
+  {
+    "objectID": "id/contact.html#untuk-organisasi",
+    "href": "id/contact.html#untuk-organisasi",
+    "title": "Kontak",
+    "section": "Untuk Organisasi",
+    "text": "Untuk Organisasi\n\nPeluang Kemitraan\nOSGeo Indonesia menyambut kemitraan dengan:\n\nInstansi pemerintah — Adopsi perangkat geospasial sumber terbuka untuk infrastruktur data spasial\nUniversitas — Integrasikan GIS sumber terbuka ke dalam kurikulum melalui Geo for All\nLSM — Manfaatkan perangkat sumber terbuka untuk proyek pembangunan dan kemanusiaan\nSektor swasta — Temukan solusi geospasial yang hemat biaya dan andal\n\n\n\nSponsorship\nDukung komunitas geospasial sumber terbuka di Indonesia. Sponsor membantu kami menyelenggarakan lokakarya, pertemuan, dan konferensi yang membangun kapasitas geospasial di seluruh Nusantara."
+  },
+  {
+    "objectID": "id/contact.html#menjadi-anggota",
+    "href": "id/contact.html#menjadi-anggota",
+    "title": "Kontak",
+    "section": "Menjadi Anggota",
+    "text": "Menjadi Anggota\nBergabung dengan OSGeo Indonesia gratis dan terbuka untuk semua orang. Sebagai anggota Anda dapat:\n\nBerpartisipasi dalam acara dan lokakarya komunitas\nBerjejaring dengan profesional geospasial di seluruh Indonesia\nBerkontribusi pada proyek geospasial sumber terbuka\nMengakses materi dan sumber daya pelatihan\nMemberikan suara dalam pemilihan chapter"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About OSGeo Indonesia",
+    "section": "",
+    "text": "Our mission, vision, and the people behind the local chapter."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About OSGeo Indonesia",
+    "section": "Our Mission",
+    "text": "Our Mission\nOSGeo Indonesia is the official Indonesian local chapter of the Open Source Geospatial Foundation (OSGeo). We are dedicated to fostering the adoption and development of open source geospatial technologies throughout Indonesia.\nAs the world’s largest archipelagic nation with over 17,000 islands, Indonesia faces unique geospatial challenges — from disaster management and environmental monitoring to urban planning and maritime governance. Open source geospatial tools provide accessible, powerful, and adaptable solutions for these challenges."
+  },
+  {
+    "objectID": "about.html#our-vision",
+    "href": "about.html#our-vision",
+    "title": "About OSGeo Indonesia",
+    "section": "Our Vision",
+    "text": "Our Vision\n\nPromote open source geospatial software and open data across Indonesian institutions\nSupport the development and localization of geospatial tools for Indonesian users\nConnect geospatial professionals, researchers, and students across the archipelago\nEducate the next generation of geospatial professionals through open source tools\nAdvocate for open standards and open data policies in Indonesia’s geospatial infrastructure"
+  },
+  {
+    "objectID": "about.html#about-osgeo",
+    "href": "about.html#about-osgeo",
+    "title": "About OSGeo Indonesia",
+    "section": "About OSGeo",
+    "text": "About OSGeo\nThe Open Source Geospatial Foundation (OSGeo) is a not-for-profit organization whose mission is to foster global adoption of open geospatial technology by being an inclusive software foundation devoted to an open philosophy and participatory community-driven development.\nOSGeo serves as an umbrella organization for over 40 open source geospatial projects, including QGIS, GDAL, PostGIS, GeoServer, and many more. Through its local chapters worldwide, OSGeo promotes community building and open source advocacy at the regional level."
+  },
+  {
+    "objectID": "about.html#history",
+    "href": "about.html#history",
+    "title": "About OSGeo Indonesia",
+    "section": "History",
+    "text": "History\nOSGeo Indonesia was established to bring together the growing community of open source geospatial users and developers in Indonesia. With the rapid growth of GIS adoption in Indonesian government agencies, universities, and private sector organizations, there is an increasing need for accessible, cost-effective, and powerful geospatial tools.\nOur chapter has been actively involved in:\n\nOrganizing QGIS and open source GIS workshops across major Indonesian cities\nParticipating in FOSS4G and FOSS4G Asia conferences\nContributing to OpenStreetMap Indonesia’s humanitarian mapping efforts\nSupporting the Indonesian geospatial data infrastructure through open standards\nCollaborating with universities through the Geo for All initiative"
+  },
+  {
+    "objectID": "about.html#affiliation",
+    "href": "about.html#affiliation",
+    "title": "About OSGeo Indonesia",
+    "section": "Affiliation",
+    "text": "Affiliation\nOSGeo Indonesia operates as an official local chapter of the Open Source Geospatial Foundation. We follow the OSGeo Charter and Code of Conduct in all our activities."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Powerful, secure, and flexible — open source gives you the freedom to do geo your way."
+  },
+  {
+    "objectID": "projects.html#desktop-applications",
+    "href": "projects.html#desktop-applications",
+    "title": "Projects",
+    "section": "Desktop Applications",
+    "text": "Desktop Applications\n\n\nQGIS\nThe leading open source desktop GIS. Create, edit, visualize, analyze, and publish geospatial information. QGIS is widely adopted across Indonesian government agencies, universities, and NGOs.\nVisit Project →\n\n\nGRASS GIS\nGeographic Resources Analysis Support System. A powerful suite for geospatial data management, image processing, spatial modeling, and visualization with over 500 modules.\nVisit Project →\n\n\ngvSIG\nA desktop GIS application designed for capturing, storing, handling, analyzing, and deploying geographic information. Available in Bahasa Indonesia.\nVisit Project →"
+  },
+  {
+    "objectID": "projects.html#geospatial-libraries",
+    "href": "projects.html#geospatial-libraries",
+    "title": "Projects",
+    "section": "Geospatial Libraries",
+    "text": "Geospatial Libraries\n\n\nGDAL/OGR\nThe essential translator library for raster and vector geospatial data formats. Supports hundreds of formats and is the backbone of most geospatial software.\nVisit Project →\n\n\nGEOS\nGeometry Engine Open Source. A C/C++ library for computational geometry with a focus on algorithms used in geographic information systems software.\nVisit Project →\n\n\nPROJ\nCartographic projections and coordinate transformations library. Essential for working with Indonesia’s various coordinate reference systems.\nVisit Project →"
+  },
+  {
+    "objectID": "projects.html#web-mapping",
+    "href": "projects.html#web-mapping",
+    "title": "Projects",
+    "section": "Web Mapping",
+    "text": "Web Mapping\n\n\nGeoServer\nAn open source server for sharing geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards (WMS, WFS, WCS).\nVisit Project →\n\n\nMapServer\nA platform for publishing spatial data and interactive mapping applications to the web. Supports OGC standards and runs on all major operating systems.\nVisit Project →\n\n\nOpenLayers\nA high-performance, feature-packed JavaScript library for creating interactive maps on the web. Powers many Indonesian geoportal applications.\nVisit Project →\n\n\nLeaflet\nThe leading open source JavaScript library for mobile-friendly interactive maps. Lightweight and perfect for web mapping applications.\nVisit Project →"
+  },
+  {
+    "objectID": "projects.html#spatial-databases",
+    "href": "projects.html#spatial-databases",
+    "title": "Projects",
+    "section": "Spatial Databases",
+    "text": "Spatial Databases\n\n\nPostGIS\nSpatial database extender for PostgreSQL. Adds support for geographic objects allowing location queries to be run in SQL. The standard for enterprise geospatial data management.\nVisit Project →\n\n\nSpatiaLite\nA spatial extension for SQLite. A lightweight, self-contained spatial database ideal for mobile and embedded applications.\nVisit Project →"
+  },
+  {
+    "objectID": "projects.html#content-management-catalogs",
+    "href": "projects.html#content-management-catalogs",
+    "title": "Projects",
+    "section": "Content Management & Catalogs",
+    "text": "Content Management & Catalogs\n\n\nGeoNode\nA web-based platform for developing geospatial information systems and deploying spatial data infrastructures. Used by several Indonesian agencies for data sharing.\nVisit Project →\n\n\nGeoNetwork\nA catalog application to manage spatially referenced resources. Provides metadata editing and search functions and supports OGC standards.\nVisit Project →\n\n\npycsw\nAn OGC CSW server implementation written in Python. Enables publishing and discovery of geospatial metadata via OGC standards.\nVisit Project →"
+  },
+  {
+    "objectID": "projects.html#community-projects",
+    "href": "projects.html#community-projects",
+    "title": "Projects",
+    "section": "Community Projects",
+    "text": "Community Projects\n\n\nOpenStreetMap\nThe free, editable map of the world. Indonesia is home to one of the most active OSM communities globally, with significant contributions to humanitarian mapping.\nVisit Project →\n\n\nOSGeoLive\nA self-contained bootable DVD/USB with pre-configured open source geospatial applications. Perfect for workshops and trying out geospatial software.\nVisit Project →"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in touch with OSGeo Indonesia"
+  },
+  {
+    "objectID": "contact.html#connect-with-us",
+    "href": "contact.html#connect-with-us",
+    "title": "Contact",
+    "section": "Connect With Us",
+    "text": "Connect With Us\nWe’d love to hear from you! Whether you have questions about open source geospatial tools, want to get involved with the community, or are interested in partnering with us, feel free to reach out.\n\n\n\n📧\n\n\nEmail\nFor general inquiries and information:\ninfo@osgeo.id\n\n\n\n\n🌐\n\n\nWebsite\nVisit our GitHub repository and website:\nosgeo.id\n\n\n\n\n🐦\n\n\nSocial Media\nFollow us for updates and news:\n@osgeoid\n\n\n\n\n💬\n\n\nTelegram\nChat with the community day to day:\nt.me/osgeoid\n\n\n\n\n📖\n\n\nWiki\nChapter documentation on the OSGeo wiki:\nwiki.osgeo.org/wiki/OSGeoID\n\n\n\n\n💻\n\n\nGitHub\nOur code, data, and this website:\ngithub.com/osgeoid"
+  },
+  {
+    "objectID": "contact.html#mailing-list",
+    "href": "contact.html#mailing-list",
+    "title": "Contact",
+    "section": "Mailing List",
+    "text": "Mailing List\nOur mailing list is hosted by OSGeo and is the chapter’s official discussion channel.\nSubscribe to the indonesia mailing list\nAnyone can join — subscription is free and open. We send regular updates about:\n\nUpcoming workshops and training events\nCommunity meetups and conferences\nOpen source geospatial news relevant to Indonesia\nJob opportunities and collaborations\n\nArchives of past discussions are available at lists.osgeo.org/pipermail/indonesia."
+  },
+  {
+    "objectID": "contact.html#for-organizations",
+    "href": "contact.html#for-organizations",
+    "title": "Contact",
+    "section": "For Organizations",
+    "text": "For Organizations\n\nPartnership Opportunities\nOSGeo Indonesia welcomes partnerships with:\n\nGovernment agencies — Adopt open source geospatial tools for spatial data infrastructure\nUniversities — Integrate open source GIS into curricula through Geo for All\nNGOs — Leverage open source tools for development and humanitarian projects\nPrivate sector — Discover cost-effective, powerful geospatial solutions\n\n\n\nSponsorship\nSupport the open source geospatial community in Indonesia. Sponsors help us organize workshops, meetups, and conferences that build geospatial capacity across the archipelago."
+  },
+  {
+    "objectID": "contact.html#become-a-member",
+    "href": "contact.html#become-a-member",
+    "title": "Contact",
+    "section": "Become a Member",
+    "text": "Become a Member\nJoining OSGeo Indonesia is free and open to everyone. As a member you can:\n\nParticipate in community events and workshops\nNetwork with geospatial professionals across Indonesia\nContribute to open source geospatial projects\nAccess training materials and resources\nVote in chapter elections"
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community",
+    "section": "",
+    "text": "Join the Indonesian open source geospatial community"
+  },
+  {
+    "objectID": "community.html#welcome-to-osgeo-indonesia",
+    "href": "community.html#welcome-to-osgeo-indonesia",
+    "title": "Community",
+    "section": "Welcome to OSGeo Indonesia",
+    "text": "Welcome to OSGeo Indonesia\nThe OSGeo Indonesia community brings together geospatial professionals, developers, researchers, students, and enthusiasts from across the Indonesian archipelago. Whether you’re a seasoned GIS expert or just getting started, there’s a place for you here."
+  },
+  {
+    "objectID": "community.html#how-to-get-involved",
+    "href": "community.html#how-to-get-involved",
+    "title": "Community",
+    "section": "How to Get Involved",
+    "text": "How to Get Involved\n\n\n\n💬\n\n\nJoin the Discussion\nConnect with fellow community members on the indonesia mailing list and our Telegram group. Share knowledge, ask questions, and collaborate on projects.\n\n\n\n\n🗓️\n\n\nAttend Events\nJoin our workshops, meetups, and conferences held across Indonesia. From beginner tutorials to advanced technical sessions.\n\n\n\n\n💻\n\n\nContribute Code\nHelp improve open source geospatial projects. Whether it’s fixing bugs, adding features, writing documentation, or translating — every contribution matters.\n\n\n\n\n🗺️\n\n\nMap with Us\nJoin OpenStreetMap mapping activities and humanitarian mapping events. Help improve the map of Indonesia.\n\n\n\n\n🎓\n\n\nGeo for All\nOur academic initiative connects universities across Indonesia to promote open source geospatial education and research.\n\n\n\n\n📢\n\n\nSpread the Word\nHelp promote open source geospatial technologies in your organization, community, or university."
+  },
+  {
+    "objectID": "community.html#community-channels",
+    "href": "community.html#community-channels",
+    "title": "Community",
+    "section": "Community Channels",
+    "text": "Community Channels\nEverything the chapter runs on is open and public — pick whichever suits you:\n\n\n\nChannel\nWhat it’s for\nWhere\n\n\n\n\nMailing list\nOfficial announcements and longer discussions\nlists.osgeo.org/mailman/listinfo/indonesia\n\n\nTelegram\nDay-to-day questions and quick help\nt.me/osgeoid\n\n\nWiki\nChapter documentation, meeting notes, and history\nwiki.osgeo.org/wiki/OSGeoID\n\n\nGitHub\nCode, data, and this website\ngithub.com/osgeoid\n\n\nTwitter/X\nNews and event announcements\n@osgeoid\n\n\n\nThe mailing list is hosted on OSGeo’s own infrastructure and is the channel of record for chapter business. New members are encouraged to subscribe there first."
+  },
+  {
+    "objectID": "community.html#regional-communities",
+    "href": "community.html#regional-communities",
+    "title": "Community",
+    "section": "Regional Communities",
+    "text": "Regional Communities\nIndonesia’s geospatial open source community spans the entire archipelago. We have active members and contributors in major cities including:\n\nJakarta — Government agencies, NGOs, and the private sector\nBandung — University research groups and tech communities\nYogyakarta — Academic institutions and mapping communities\nSurabaya — Regional government and development organizations\nMakassar — Eastern Indonesia geospatial hub\nDenpasar — Tourism and environmental mapping\nMedan — Sumatra regional community"
+  },
+  {
+    "objectID": "community.html#universities",
+    "href": "community.html#universities",
+    "title": "Community",
+    "section": "Universities",
+    "text": "Universities\nAcademic partners advancing open source geospatial education and research across Indonesia:\n\nDepartment of Geodetic Engineering, Universitas Diponegoro — Semarang Contact person: Dr. Firman Hadi, S.Si., M.T."
+  },
+  {
+    "objectID": "community.html#osgeo-initiatives",
+    "href": "community.html#osgeo-initiatives",
+    "title": "Community",
+    "section": "OSGeo Initiatives",
+    "text": "OSGeo Initiatives\n\nFOSS4G\nThe global conference for Free and Open Source Software for Geospatial. OSGeo Indonesia members actively participate and present at FOSS4G and FOSS4G Asia events.\n\n\nGoogle Summer of Code (GSoC)\nOSGeo participates as a mentoring organization in GSoC. Indonesian students can contribute to geospatial open source projects with mentorship from the global community.\n\n\nGeo for All\nAn initiative to make geospatial education and opportunities accessible to all. We partner with Indonesian universities to integrate open source geospatial tools into curricula.\n\n\nOSGeoLive\nA self-contained bootable DVD/USB with pre-configured open source geospatial software. We use this extensively in workshops across Indonesia."
+  },
+  {
+    "objectID": "community.html#code-of-conduct",
+    "href": "community.html#code-of-conduct",
+    "title": "Community",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nAll OSGeo Indonesia community activities follow the OSGeo Code of Conduct. We are committed to providing a welcoming and inclusive environment for everyone, regardless of gender, gender identity, sexual orientation, disability, physical appearance, body size, race, ethnicity, age, religion, or nationality."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Workshops, meetups, and conferences across Indonesia"
+  },
+  {
+    "objectID": "events.html#upcoming-events",
+    "href": "events.html#upcoming-events",
+    "title": "Events",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\n\n\n\n\n\n\n\n\n\n\n\n\nJUL TBA\n\n\nPostGIS & Spatial Database Workshop\nLocation: Tembalang, Semarang, Indonesia\nLearn how to manage and analyze geospatial data using PostGIS and PostgreSQL. Covers installation, spatial queries, indexing, and integration with QGIS.\n\n\n\n\nAUG 25\n\n\nOpenStreetMap Mapathon\nLocation: Online / Multiple Locations\nCollaborative mapping event to improve OpenStreetMap coverage in Indonesian regions. All skill levels welcome — we provide training!\n\n\n\n\nAUG 30\n\n\nFOSS4G Hiroshima 2026\nLocation: Hiroshima, Japan Date: 30 August – 3 September 2026\nThe global open source geospatial conference comes to Hiroshima, Japan. Join the international geospatial community for talks, workshops, and networking. OSGeo Indonesia delegation welcome!"
+  },
+  {
+    "objectID": "events.html#past-events",
+    "href": "events.html#past-events",
+    "title": "Events",
+    "section": "Past Events",
+    "text": "Past Events\n\n2025\n\nFOSS4G 2025 — Auckland, New Zealand (OSGeo Indonesia delegation)\nQGIS Workshop Series — Jakarta, Bandung, Surabaya\nOSGeo Indonesia Annual Meetup — Yogyakarta\nHumanitarian OpenStreetMap Mapathon — Online, nationwide participation\n\n\n\n2024\n\nFOSS4G Asia 2024 — Community participation\nGeoNode Training Workshop — Jakarta\nOpen Data Day Indonesia — Multiple cities\nUniversity GIS Day Celebrations — Partner universities across Indonesia\n\n\n\n2019\n\nMeet up Perdana OSGeo ID — 4 October 2019, the chapter’s first community meetup"
+  },
+  {
+    "objectID": "events.html#host-an-event",
+    "href": "events.html#host-an-event",
+    "title": "Events",
+    "section": "Host an Event",
+    "text": "Host an Event\nInterested in hosting an OSGeo Indonesia event in your city or institution? We provide:\n\nWorkshop materials and curricula\nSpeaker and trainer connections\nPromotion through our community channels\nOSGeo branding and support\n\nContact us to discuss hosting an event."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OSGeo Indonesia",
+    "section": "",
+    "text": "Your Open Source Geospatial Compass in Indonesia\n\nEmpowering the Indonesian geospatial community through open source software, open data, and open education.\nExplore Projects Join Community"
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "OSGeo Indonesia",
+    "section": "Get Involved",
+    "text": "Get Involved\nWhether you’re a developer, researcher, student, or mapping enthusiast — there’s a place for you in the OSGeo Indonesia community.\nJoin Our Community Contact Us"
+  },
+  {
+    "objectID": "id/community.html",
+    "href": "id/community.html",
+    "title": "Komunitas",
+    "section": "",
+    "text": "Bergabunglah dengan komunitas geospasial sumber terbuka Indonesia"
+  },
+  {
+    "objectID": "id/community.html#selamat-datang-di-osgeo-indonesia",
+    "href": "id/community.html#selamat-datang-di-osgeo-indonesia",
+    "title": "Komunitas",
+    "section": "Selamat Datang di OSGeo Indonesia",
+    "text": "Selamat Datang di OSGeo Indonesia\nKomunitas OSGeo Indonesia menyatukan para profesional geospasial, pengembang, peneliti, mahasiswa, dan peminat dari seluruh kepulauan Indonesia. Baik Anda seorang ahli GIS berpengalaman maupun baru memulai, ada tempat untuk Anda di sini."
+  },
+  {
+    "objectID": "id/community.html#cara-bergabung",
+    "href": "id/community.html#cara-bergabung",
+    "title": "Komunitas",
+    "section": "Cara Bergabung",
+    "text": "Cara Bergabung\n\n\n\n💬\n\n\nBergabung dalam Diskusi\nTerhubung dengan sesama anggota komunitas di milis indonesia dan grup Telegram kami. Berbagi pengetahuan, bertanya, dan berkolaborasi dalam proyek.\n\n\n\n\n🗓️\n\n\nHadiri Acara\nBergabunglah dalam lokakarya, pertemuan, dan konferensi kami yang diadakan di seluruh Indonesia. Dari tutorial pemula hingga sesi teknis lanjutan.\n\n\n\n\n💻\n\n\nKontribusi Kode\nBantu tingkatkan proyek geospasial sumber terbuka. Baik itu memperbaiki bug, menambah fitur, menulis dokumentasi, atau menerjemahkan — setiap kontribusi berarti.\n\n\n\n\n🗺️\n\n\nPetakan Bersama Kami\nBergabunglah dalam kegiatan pemetaan OpenStreetMap dan acara pemetaan kemanusiaan. Bantu tingkatkan peta Indonesia.\n\n\n\n\n🎓\n\n\nGeo for All\nInisiatif akademik kami menghubungkan universitas di seluruh Indonesia untuk mempromosikan pendidikan dan penelitian geospasial sumber terbuka.\n\n\n\n\n📢\n\n\nSebarkan Informasi\nBantu promosikan teknologi geospasial sumber terbuka di organisasi, komunitas, atau universitas Anda."
+  },
+  {
+    "objectID": "id/community.html#kanal-komunitas",
+    "href": "id/community.html#kanal-komunitas",
+    "title": "Komunitas",
+    "section": "Kanal Komunitas",
+    "text": "Kanal Komunitas\nSemua kanal yang digunakan chapter bersifat terbuka dan publik — pilih yang paling sesuai untuk Anda:\n\n\n\nKanal\nKegunaan\nTautan\n\n\n\n\nMilis\nPengumuman resmi dan diskusi panjang\nlists.osgeo.org/mailman/listinfo/indonesia\n\n\nTelegram\nTanya jawab harian dan bantuan cepat\nt.me/osgeoid\n\n\nWiki\nDokumentasi chapter, notulen, dan riwayat\nwiki.osgeo.org/wiki/OSGeoID\n\n\nGitHub\nKode, data, dan situs web ini\ngithub.com/osgeoid\n\n\nTwitter/X\nBerita dan pengumuman acara\n@osgeoid\n\n\n\nMilis dikelola di infrastruktur milik OSGeo dan menjadi kanal resmi untuk urusan chapter. Anggota baru disarankan berlangganan di sana terlebih dahulu."
+  },
+  {
+    "objectID": "id/community.html#komunitas-regional",
+    "href": "id/community.html#komunitas-regional",
+    "title": "Komunitas",
+    "section": "Komunitas Regional",
+    "text": "Komunitas Regional\nKomunitas geospasial sumber terbuka Indonesia tersebar di seluruh Nusantara. Kami memiliki anggota dan kontributor aktif di kota-kota besar termasuk:\n\nJakarta — Instansi pemerintah, LSM, dan sektor swasta\nBandung — Kelompok penelitian universitas dan komunitas teknologi\nYogyakarta — Institusi akademik dan komunitas pemetaan\nSurabaya — Pemerintah daerah dan organisasi pembangunan\nMakassar — Pusat geospasial Indonesia Timur\nDenpasar — Pemetaan pariwisata dan lingkungan\nMedan — Komunitas regional Sumatera"
+  },
+  {
+    "objectID": "id/community.html#universitas",
+    "href": "id/community.html#universitas",
+    "title": "Komunitas",
+    "section": "Universitas",
+    "text": "Universitas\nMitra akademik yang memajukan pendidikan dan penelitian geospasial sumber terbuka di seluruh Indonesia:\n\nDepartemen Teknik Geodesi, Universitas Diponegoro — Semarang Narahubung: Dr. Firman Hadi, S.Si., M.T."
+  },
+  {
+    "objectID": "id/community.html#inisiatif-osgeo",
+    "href": "id/community.html#inisiatif-osgeo",
+    "title": "Komunitas",
+    "section": "Inisiatif OSGeo",
+    "text": "Inisiatif OSGeo\n\nFOSS4G\nKonferensi global untuk Perangkat Lunak Bebas dan Sumber Terbuka untuk Geospasial. Anggota OSGeo Indonesia secara aktif berpartisipasi dan mempresentasikan di acara FOSS4G dan FOSS4G Asia.\n\n\nGoogle Summer of Code (GSoC)\nOSGeo berpartisipasi sebagai organisasi mentor di GSoC. Mahasiswa Indonesia dapat berkontribusi pada proyek geospasial sumber terbuka dengan bimbingan dari komunitas global.\n\n\nGeo for All\nInisiatif untuk membuat pendidikan dan kesempatan geospasial dapat diakses oleh semua. Kami bermitra dengan universitas Indonesia untuk mengintegrasikan perangkat geospasial sumber terbuka ke dalam kurikulum.\n\n\nOSGeoLive\nDVD/USB bootable mandiri dengan perangkat lunak geospasial sumber terbuka yang telah dikonfigurasi. Kami menggunakannya secara ekstensif dalam lokakarya di seluruh Indonesia."
+  },
+  {
+    "objectID": "id/community.html#kode-etik",
+    "href": "id/community.html#kode-etik",
+    "title": "Komunitas",
+    "section": "Kode Etik",
+    "text": "Kode Etik\nSemua kegiatan komunitas OSGeo Indonesia mengikuti Kode Etik OSGeo. Kami berkomitmen untuk menyediakan lingkungan yang ramah dan inklusif bagi semua orang, tanpa memandang gender, identitas gender, orientasi seksual, disabilitas, penampilan fisik, ukuran tubuh, ras, etnis, usia, agama, atau kebangsaan."
+  },
+  {
+    "objectID": "id/events.html",
+    "href": "id/events.html",
+    "title": "Acara",
+    "section": "",
+    "text": "Lokakarya, pertemuan, dan konferensi di seluruh Indonesia"
+  },
+  {
+    "objectID": "id/events.html#acara-mendatang",
+    "href": "id/events.html#acara-mendatang",
+    "title": "Acara",
+    "section": "Acara Mendatang",
+    "text": "Acara Mendatang\n\n\n\n\n\n\n\n\n\n\n\n\n\nJUL TBA\n\n\nLokakarya PostGIS & Basis Data Spasial\nLokasi: Tembalang, Semarang, Indonesia\nPelajari cara mengelola dan menganalisis data geospasial menggunakan PostGIS dan PostgreSQL. Mencakup instalasi, kueri spasial, pengindeksan, dan integrasi dengan QGIS.\n\n\n\n\nAGT 25\n\n\nMapathon OpenStreetMap\nLokasi: Daring / Berbagai Lokasi\nAcara pemetaan kolaboratif untuk meningkatkan cakupan OpenStreetMap di wilayah Indonesia. Semua tingkat keahlian dipersilakan — kami menyediakan pelatihan!\n\n\n\n\nAGT 30\n\n\nFOSS4G Hiroshima 2026\nLokasi: Hiroshima, Jepang Tanggal: 30 Agustus – 3 September 2026\nKonferensi geospasial sumber terbuka global hadir di Hiroshima, Jepang. Bergabunglah dengan komunitas geospasial internasional untuk presentasi, lokakarya, dan jejaring. Delegasi OSGeo Indonesia dipersilakan!"
+  },
+  {
+    "objectID": "id/events.html#acara-sebelumnya",
+    "href": "id/events.html#acara-sebelumnya",
+    "title": "Acara",
+    "section": "Acara Sebelumnya",
+    "text": "Acara Sebelumnya\n\n2025\n\nFOSS4G 2025 — Auckland, Selandia Baru (delegasi OSGeo Indonesia)\nSeri Lokakarya QGIS — Jakarta, Bandung, Surabaya\nPertemuan Tahunan OSGeo Indonesia — Yogyakarta\nMapathon OpenStreetMap Kemanusiaan — Daring, partisipasi nasional\n\n\n\n2024\n\nFOSS4G Asia 2024 — Partisipasi komunitas\nLokakarya Pelatihan GeoNode — Jakarta\nHari Data Terbuka Indonesia — Berbagai kota\nPerayaan Hari GIS Universitas — Universitas mitra di seluruh Indonesia\n\n\n\n2019\n\nMeet up Perdana OSGeo ID — 4 Oktober 2019, pertemuan komunitas pertama chapter"
+  },
+  {
+    "objectID": "id/events.html#selenggarakan-acara",
+    "href": "id/events.html#selenggarakan-acara",
+    "title": "Acara",
+    "section": "Selenggarakan Acara",
+    "text": "Selenggarakan Acara\nTertarik menyelenggarakan acara OSGeo Indonesia di kota atau institusi Anda? Kami menyediakan:\n\nMateri dan kurikulum lokakarya\nKoneksi pembicara dan pelatih\nPromosi melalui saluran komunitas kami\nBranding dan dukungan OSGeo\n\nHubungi kami untuk mendiskusikan penyelenggaraan acara."
+  },
+  {
+    "objectID": "id/index.html",
+    "href": "id/index.html",
+    "title": "OSGeo Indonesia",
+    "section": "",
+    "text": "Kompas Geospasial Sumber Terbuka Anda di Indonesia\n\nMemberdayakan komunitas geospasial Indonesia melalui perangkat lunak sumber terbuka, data terbuka, dan pendidikan terbuka.\nJelajahi Proyek Gabung Komunitas"
+  },
+  {
+    "objectID": "id/index.html#ayo-bergabung",
+    "href": "id/index.html#ayo-bergabung",
+    "title": "OSGeo Indonesia",
+    "section": "Ayo Bergabung",
+    "text": "Ayo Bergabung\nBaik Anda seorang pengembang, peneliti, mahasiswa, atau peminat pemetaan — ada tempat untuk Anda di komunitas OSGeo Indonesia.\nGabung Komunitas Hubungi Kami"
+  }
+]

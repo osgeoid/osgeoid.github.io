@@ -1,0 +1,51 @@
+---
+title: "Tentang OSGeo Indonesia"
+pagetitle: "Tentang - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Tentang OSGeo Indonesia
+Misi, visi, dan orang-orang di balik chapter lokal ini.
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Misi Kami
+
+OSGeo Indonesia adalah chapter lokal resmi Indonesia dari [Open Source Geospatial Foundation (OSGeo)](https://www.osgeo.org/). Kami berdedikasi untuk mendorong adopsi dan pengembangan teknologi geospasial sumber terbuka di seluruh Indonesia.
+
+Sebagai negara kepulauan terbesar di dunia dengan lebih dari 17.000 pulau, Indonesia menghadapi tantangan geospasial yang unik — mulai dari manajemen bencana dan pemantauan lingkungan hingga perencanaan kota dan tata kelola maritim. Perangkat geospasial sumber terbuka menyediakan solusi yang mudah diakses, andal, dan dapat disesuaikan untuk tantangan-tantangan ini.
+
+## Visi Kami
+
+- **Mempromosikan** perangkat lunak geospasial sumber terbuka dan data terbuka di seluruh institusi Indonesia
+- **Mendukung** pengembangan dan lokalisasi perangkat geospasial untuk pengguna Indonesia
+- **Menghubungkan** para profesional geospasial, peneliti, dan mahasiswa di seluruh Nusantara
+- **Mendidik** generasi penerus profesional geospasial melalui perangkat sumber terbuka
+- **Mengadvokasi** standar terbuka dan kebijakan data terbuka dalam infrastruktur geospasial Indonesia
+
+## Tentang OSGeo
+
+[Open Source Geospatial Foundation (OSGeo)](https://www.osgeo.org/) adalah organisasi nirlaba yang misinya mendorong adopsi global teknologi geospasial terbuka dengan menjadi yayasan perangkat lunak inklusif yang mengabdi pada filosofi terbuka dan pengembangan berbasis komunitas partisipatif.
+
+OSGeo berperan sebagai organisasi payung untuk lebih dari 40 proyek geospasial sumber terbuka, termasuk QGIS, GDAL, PostGIS, GeoServer, dan banyak lagi. Melalui chapter lokalnya di seluruh dunia, OSGeo mempromosikan pembangunan komunitas dan advokasi sumber terbuka di tingkat regional.
+
+## Sejarah
+
+OSGeo Indonesia didirikan untuk menyatukan komunitas pengguna dan pengembang geospasial sumber terbuka yang terus berkembang di Indonesia. Dengan pesatnya pertumbuhan adopsi GIS di instansi pemerintah, universitas, dan organisasi sektor swasta Indonesia, kebutuhan akan perangkat geospasial yang mudah diakses, hemat biaya, dan andal semakin meningkat.
+
+Chapter kami telah aktif terlibat dalam:
+
+- Menyelenggarakan lokakarya QGIS dan GIS sumber terbuka di berbagai kota besar Indonesia
+- Berpartisipasi dalam konferensi FOSS4G dan FOSS4G Asia
+- Berkontribusi pada upaya pemetaan kemanusiaan OpenStreetMap Indonesia
+- Mendukung infrastruktur data geospasial Indonesia melalui standar terbuka
+- Berkolaborasi dengan universitas melalui inisiatif Geo for All
+
+## Afiliasi
+
+OSGeo Indonesia beroperasi sebagai chapter lokal resmi dari Open Source Geospatial Foundation. Kami mengikuti [Piagam OSGeo](https://www.osgeo.org/about/charter/) dan [Kode Etik](https://www.osgeo.org/code_of_conduct/) dalam semua kegiatan kami.
+
+:::
+:::

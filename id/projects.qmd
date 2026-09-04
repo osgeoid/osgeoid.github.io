@@ -1,0 +1,170 @@
+---
+title: "Proyek"
+pagetitle: "Proyek - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Proyek Geospasial Sumber Terbuka
+Andal, aman, dan fleksibel — sumber terbuka memberi Anda kebebasan untuk melakukan analisis geospasial sesuai keinginan.
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Aplikasi Desktop
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### QGIS
+GIS desktop sumber terbuka terkemuka. Buat, edit, visualisasikan, analisis, dan publikasikan informasi geospasial. QGIS telah diadopsi secara luas di instansi pemerintah, universitas, dan LSM Indonesia.
+
+[Kunjungi Proyek →](https://qgis.org)
+:::
+
+::: {.project-card}
+#### GRASS GIS
+Geographic Resources Analysis Support System. Rangkaian perangkat yang andal untuk manajemen data geospasial, pengolahan citra, pemodelan spasial, dan visualisasi dengan lebih dari 500 modul.
+
+[Kunjungi Proyek →](https://grass.osgeo.org)
+:::
+
+::: {.project-card}
+#### gvSIG
+Aplikasi GIS desktop yang dirancang untuk mengakuisisi, menyimpan, menangani, menganalisis, dan menyebarkan informasi geografis. Tersedia dalam Bahasa Indonesia.
+
+[Kunjungi Proyek →](http://www.gvsig.com)
+:::
+
+:::
+
+## Pustaka Geospasial
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### GDAL/OGR
+Pustaka penerjemah penting untuk format data geospasial raster dan vektor. Mendukung ratusan format dan merupakan tulang punggung sebagian besar perangkat lunak geospasial.
+
+[Kunjungi Proyek →](https://gdal.org)
+:::
+
+::: {.project-card}
+#### GEOS
+Geometry Engine Open Source. Pustaka C/C++ untuk geometri komputasi dengan fokus pada algoritma yang digunakan dalam perangkat lunak sistem informasi geografis.
+
+[Kunjungi Proyek →](https://libgeos.org)
+:::
+
+::: {.project-card}
+#### PROJ
+Pustaka proyeksi kartografi dan transformasi koordinat. Penting untuk bekerja dengan berbagai sistem referensi koordinat Indonesia.
+
+[Kunjungi Proyek →](https://proj.org)
+:::
+
+:::
+
+## Pemetaan Web
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### GeoServer
+Server sumber terbuka untuk berbagi data geospasial. Dirancang untuk interoperabilitas, mempublikasikan data dari sumber data spasial utama menggunakan standar terbuka (WMS, WFS, WCS).
+
+[Kunjungi Proyek →](https://geoserver.org)
+:::
+
+::: {.project-card}
+#### MapServer
+Platform untuk mempublikasikan data spasial dan aplikasi pemetaan interaktif ke web. Mendukung standar OGC dan berjalan di semua sistem operasi utama.
+
+[Kunjungi Proyek →](https://mapserver.org)
+:::
+
+::: {.project-card}
+#### OpenLayers
+Pustaka JavaScript berperforma tinggi dan kaya fitur untuk membuat peta interaktif di web. Mendukung banyak aplikasi geoportal Indonesia.
+
+[Kunjungi Proyek →](https://openlayers.org)
+:::
+
+::: {.project-card}
+#### Leaflet
+Pustaka JavaScript sumber terbuka terkemuka untuk peta interaktif yang ramah perangkat mobile. Ringan dan sempurna untuk aplikasi pemetaan web.
+
+[Kunjungi Proyek →](https://leafletjs.com)
+:::
+
+:::
+
+## Basis Data Spasial
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### PostGIS
+Ekstensi basis data spasial untuk PostgreSQL. Menambahkan dukungan untuk objek geografis sehingga kueri lokasi dapat dijalankan dalam SQL. Standar untuk manajemen data geospasial enterprise.
+
+[Kunjungi Proyek →](https://postgis.net)
+:::
+
+::: {.project-card}
+#### SpatiaLite
+Ekstensi spasial untuk SQLite. Basis data spasial yang ringan dan mandiri, ideal untuk aplikasi mobile dan embedded.
+
+[Kunjungi Proyek →](https://www.gaia-gis.it/fossil/libspatialite)
+:::
+
+:::
+
+## Manajemen Konten & Katalog
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### GeoNode
+Platform berbasis web untuk mengembangkan sistem informasi geospasial dan menyebarkan infrastruktur data spasial. Digunakan oleh beberapa instansi Indonesia untuk berbagi data.
+
+[Kunjungi Proyek →](https://geonode.org)
+:::
+
+::: {.project-card}
+#### GeoNetwork
+Aplikasi katalog untuk mengelola sumber daya yang bereferensi spasial. Menyediakan fungsi pengeditan dan pencarian metadata serta mendukung standar OGC.
+
+[Kunjungi Proyek →](https://geonetwork-opensource.org)
+:::
+
+::: {.project-card}
+#### pycsw
+Implementasi server OGC CSW yang ditulis dalam Python. Memungkinkan publikasi dan penemuan metadata geospasial melalui standar OGC.
+
+[Kunjungi Proyek →](https://pycsw.org)
+:::
+
+:::
+
+## Proyek Komunitas
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### OpenStreetMap
+Peta dunia yang bebas dan dapat diedit. Indonesia adalah rumah bagi salah satu komunitas OSM paling aktif di dunia, dengan kontribusi signifikan pada pemetaan kemanusiaan.
+
+[Kunjungi Proyek →](https://www.openstreetmap.org)
+:::
+
+::: {.project-card}
+#### OSGeoLive
+DVD/USB bootable mandiri dengan aplikasi geospasial sumber terbuka yang telah dikonfigurasi. Sempurna untuk lokakarya dan mencoba perangkat lunak geospasial.
+
+[Kunjungi Proyek →](https://live.osgeo.org)
+:::
+
+:::
+
+:::
+:::

@@ -1,0 +1,207 @@
+---
+title: "OSGeo Indonesia"
+pagetitle: "OSGeo Indonesia - Open Source Geospatial Foundation Local Chapter"
+---
+
+::: {.hero-banner}
+
+# OSGeo Indonesia
+
+::: {.tagline}
+Your Open Source Geospatial Compass in Indonesia
+:::
+
+Empowering the Indonesian geospatial community through open source software, open data, and open education.
+
+[Explore Projects](projects.qmd){.btn-hero}
+[Join Community](community.qmd){.btn-hero-outline}
+
+:::
+
+
+::: {.section-block .bg-light}
+::: {.content-container}
+
+::: {.section-title}
+What is OSGeo Indonesia?
+:::
+
+::: {.section-subtitle}
+We are the Indonesian local chapter of the Open Source Geospatial Foundation (OSGeo), dedicated to promoting and supporting the development of open source geospatial technologies across the archipelago.
+:::
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;"}
+
+::: {.feature-card}
+::: {.card-icon}
+🌍
+:::
+
+### Open Source GIS
+Promoting powerful open source GIS tools like QGIS, GRASS GIS, and PostGIS for mapping and spatial analysis across Indonesia.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+👥
+:::
+
+### Community Building
+Connecting geospatial professionals, researchers, students, and enthusiasts throughout Indonesia's diverse islands.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+📚
+:::
+
+### Education & Training
+Providing workshops, tutorials, and resources to build geospatial capacity using open source tools.
+:::
+
+:::
+
+:::
+:::
+
+
+::: {.stats-section}
+::: {.content-container}
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;"}
+
+::: {.stat-item}
+[34]{.stat-number}
+[Provinces Reached]{.stat-label}
+:::
+
+::: {.stat-item}
+[500+]{.stat-number}
+[Community Members]{.stat-label}
+:::
+
+::: {.stat-item}
+[5+]{.stat-number}
+[Workshops Conducted]{.stat-label}
+:::
+
+::: {.stat-item}
+[3+]{.stat-number}
+[University Partners]{.stat-label}
+:::
+
+:::
+
+:::
+:::
+
+
+::: {.section-block}
+::: {.content-container}
+
+::: {.section-title}
+Featured Projects
+:::
+
+::: {.section-subtitle}
+Open source geospatial tools that power Indonesia's mapping and spatial data infrastructure.
+:::
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### QGIS
+A free and open source geographic information system for creating, editing, visualizing, and analyzing geospatial data. Widely used across Indonesian government agencies and universities.
+:::
+
+::: {.project-card}
+#### PostGIS
+Spatial database extender for PostgreSQL. Powers many of Indonesia's geospatial data infrastructures and web mapping services.
+:::
+
+::: {.project-card}
+#### GeoServer
+An open source server for sharing geospatial data. Used for publishing Indonesia's spatial data through OGC standards.
+:::
+
+::: {.project-card}
+#### OpenStreetMap
+The free, editable map of the world. Indonesia has one of the most active OSM communities globally.
+:::
+
+::: {.project-card}
+#### GDAL/OGR
+The essential translator library for raster and vector geospatial data formats, supporting hundreds of formats.
+:::
+
+::: {.project-card}
+#### GeoNode
+A web-based platform for developing geospatial information systems and deploying spatial data infrastructures.
+:::
+
+:::
+
+:::
+:::
+
+
+::: {.section-block .bg-green}
+::: {.content-container}
+
+::: {.section-title}
+Upcoming Events
+:::
+
+::: {.section-subtitle}
+Join us at workshops, meetups, and conferences across Indonesia.
+:::
+
+::: {.event-item}
+::: {.event-date}
+[APR]{.month}
+[15]{.day}
+:::
+::: {.event-info}
+#### QGIS Workshop - Jakarta
+Introduction to QGIS for spatial analysis. Hands-on workshop for beginners and intermediate users.
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[MAY]{.month}
+[20]{.day}
+:::
+::: {.event-info}
+#### OSGeo Indonesia Meetup - Bandung
+Monthly community meetup featuring talks on open source geospatial technologies.
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[JUN]{.month}
+[10]{.day}
+:::
+::: {.event-info}
+#### FOSS4G Asia 2026
+The premier open source geospatial conference in Asia. Call for papers open!
+:::
+:::
+
+[View All Events →](events.qmd){.btn-hero style="background-color: #2E7D32; color: white; border-color: #2E7D32;"}
+
+:::
+:::
+
+
+::: {.cta-section}
+
+## Get Involved
+
+Whether you're a developer, researcher, student, or mapping enthusiast — there's a place for you in the OSGeo Indonesia community.
+
+[Join Our Community](community.qmd){.btn-hero}
+[Contact Us](contact.qmd){.btn-hero-outline}
+
+:::

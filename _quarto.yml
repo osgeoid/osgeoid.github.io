@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+  # Copied into docs/ on every render — without this, `quarto render`
+  # cleans the output dir and drops the GitHub Pages custom-domain file.
+  resources:
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "OSGeo Indonesia"
+  site-url: https://osgeo.id/
+  navbar:
+    background: "#2E7D32"
+    foreground: "#ffffff"
+    logo: images/osgeo-id-logo.jpeg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: community.qmd
+        text: Community
+      - href: events.qmd
+        text: Events
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: "🇬🇧 EN"
+        href: index.qmd
+      - text: "🇮🇩 ID"
+        href: id/index.qmd
+      - icon: github
+        href: https://github.com/osgeoid/osgeoid.github.io
+      - icon: twitter
+        href: https://twitter.com/osgeoid
+      - icon: telegram
+        href: https://t.me/osgeoid
+
+  page-footer:
+    background: "#1B5E20"
+    foreground: "#ffffff"
+    center: |
+      &copy; 2026 OSGeo Indonesia Local Chapter. All rights reserved.<br>
+      Part of the <a href="https://www.osgeo.org/" style="color: #81C784;">Open Source Geospatial Foundation</a>
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: false
+    page-layout: full
+    include-after-body:
+      - lang-switcher.html

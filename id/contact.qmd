@@ -1,0 +1,130 @@
+---
+title: "Kontak"
+pagetitle: "Kontak - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Hubungi Kami
+Terhubung dengan OSGeo Indonesia
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Terhubung Dengan Kami
+
+Kami senang mendengar dari Anda! Baik Anda memiliki pertanyaan tentang perangkat geospasial sumber terbuka, ingin bergabung dengan komunitas, atau tertarik bermitra dengan kami, jangan ragu untuk menghubungi.
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-bottom: 3rem;"}
+
+::: {.feature-card}
+::: {.card-icon}
+📧
+:::
+
+### Email
+Untuk pertanyaan umum dan informasi:
+
+**info@osgeo.id**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🌐
+:::
+
+### Situs Web
+Kunjungi repositori GitHub dan situs web kami:
+
+**[osgeo.id](https://osgeo.id)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🐦
+:::
+
+### Media Sosial
+Ikuti kami untuk pembaruan dan berita:
+
+**[@osgeoid](https://twitter.com/osgeoid)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+💬
+:::
+
+### Telegram
+Berbincang dengan komunitas sehari-hari:
+
+**[t.me/osgeoid](https://t.me/osgeoid)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+📖
+:::
+
+### Wiki
+Dokumentasi chapter di wiki OSGeo:
+
+**[wiki.osgeo.org/wiki/OSGeoID](https://wiki.osgeo.org/wiki/OSGeoID)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+💻
+:::
+
+### GitHub
+Kode, data, dan situs web ini:
+
+**[github.com/osgeoid](https://github.com/osgeoid)**
+:::
+
+:::
+
+## Milis
+
+Milis kami dikelola oleh OSGeo dan menjadi kanal diskusi resmi chapter.
+
+**[Berlangganan milis `indonesia`](https://lists.osgeo.org/mailman/listinfo/indonesia)**
+
+Siapa pun dapat bergabung — berlangganan gratis dan terbuka untuk umum. Kami mengirimkan pembaruan rutin tentang:
+
+- Lokakarya dan acara pelatihan mendatang
+- Pertemuan komunitas dan konferensi
+- Berita geospasial sumber terbuka yang relevan dengan Indonesia
+- Peluang kerja dan kolaborasi
+
+Arsip diskusi sebelumnya tersedia di
+[lists.osgeo.org/pipermail/indonesia](https://lists.osgeo.org/pipermail/indonesia/).
+
+## Untuk Organisasi
+
+### Peluang Kemitraan
+
+OSGeo Indonesia menyambut kemitraan dengan:
+
+- **Instansi pemerintah** — Adopsi perangkat geospasial sumber terbuka untuk infrastruktur data spasial
+- **Universitas** — Integrasikan GIS sumber terbuka ke dalam kurikulum melalui Geo for All
+- **LSM** — Manfaatkan perangkat sumber terbuka untuk proyek pembangunan dan kemanusiaan
+- **Sektor swasta** — Temukan solusi geospasial yang hemat biaya dan andal
+
+### Sponsorship
+
+Dukung komunitas geospasial sumber terbuka di Indonesia. Sponsor membantu kami menyelenggarakan lokakarya, pertemuan, dan konferensi yang membangun kapasitas geospasial di seluruh Nusantara.
+
+## Menjadi Anggota
+
+Bergabung dengan OSGeo Indonesia gratis dan terbuka untuk semua orang. Sebagai anggota Anda dapat:
+
+- Berpartisipasi dalam acara dan lokakarya komunitas
+- Berjejaring dengan profesional geospasial di seluruh Indonesia
+- Berkontribusi pada proyek geospasial sumber terbuka
+- Mengakses materi dan sumber daya pelatihan
+- Memberikan suara dalam pemilihan chapter
+
+:::
+:::

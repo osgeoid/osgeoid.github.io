@@ -1,0 +1,130 @@
+---
+title: "Contact"
+pagetitle: "Contact - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Contact Us
+Get in touch with OSGeo Indonesia
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Connect With Us
+
+We'd love to hear from you! Whether you have questions about open source geospatial tools, want to get involved with the community, or are interested in partnering with us, feel free to reach out.
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-bottom: 3rem;"}
+
+::: {.feature-card}
+::: {.card-icon}
+📧
+:::
+
+### Email
+For general inquiries and information:
+
+**info@osgeo.id**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🌐
+:::
+
+### Website
+Visit our GitHub repository and website:
+
+**[osgeo.id](https://osgeo.id)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+🐦
+:::
+
+### Social Media
+Follow us for updates and news:
+
+**[@osgeoid](https://twitter.com/osgeoid)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+💬
+:::
+
+### Telegram
+Chat with the community day to day:
+
+**[t.me/osgeoid](https://t.me/osgeoid)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+📖
+:::
+
+### Wiki
+Chapter documentation on the OSGeo wiki:
+
+**[wiki.osgeo.org/wiki/OSGeoID](https://wiki.osgeo.org/wiki/OSGeoID)**
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+💻
+:::
+
+### GitHub
+Our code, data, and this website:
+
+**[github.com/osgeoid](https://github.com/osgeoid)**
+:::
+
+:::
+
+## Mailing List
+
+Our mailing list is hosted by OSGeo and is the chapter's official discussion channel.
+
+**[Subscribe to the `indonesia` mailing list](https://lists.osgeo.org/mailman/listinfo/indonesia)**
+
+Anyone can join — subscription is free and open. We send regular updates about:
+
+- Upcoming workshops and training events
+- Community meetups and conferences
+- Open source geospatial news relevant to Indonesia
+- Job opportunities and collaborations
+
+Archives of past discussions are available at
+[lists.osgeo.org/pipermail/indonesia](https://lists.osgeo.org/pipermail/indonesia/).
+
+## For Organizations
+
+### Partnership Opportunities
+
+OSGeo Indonesia welcomes partnerships with:
+
+- **Government agencies** — Adopt open source geospatial tools for spatial data infrastructure
+- **Universities** — Integrate open source GIS into curricula through Geo for All
+- **NGOs** — Leverage open source tools for development and humanitarian projects
+- **Private sector** — Discover cost-effective, powerful geospatial solutions
+
+### Sponsorship
+
+Support the open source geospatial community in Indonesia. Sponsors help us organize workshops, meetups, and conferences that build geospatial capacity across the archipelago.
+
+## Become a Member
+
+Joining OSGeo Indonesia is free and open to everyone. As a member you can:
+
+- Participate in community events and workshops
+- Network with geospatial professionals across Indonesia
+- Contribute to open source geospatial projects
+- Access training materials and resources
+- Vote in chapter elections
+
+:::
+:::

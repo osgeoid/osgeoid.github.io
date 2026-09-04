@@ -1,0 +1,170 @@
+---
+title: "Projects"
+pagetitle: "Projects - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Open Source Geospatial Projects
+Powerful, secure, and flexible — open source gives you the freedom to do geo your way.
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Desktop Applications
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### QGIS
+The leading open source desktop GIS. Create, edit, visualize, analyze, and publish geospatial information. QGIS is widely adopted across Indonesian government agencies, universities, and NGOs.
+
+[Visit Project →](https://qgis.org)
+:::
+
+::: {.project-card}
+#### GRASS GIS
+Geographic Resources Analysis Support System. A powerful suite for geospatial data management, image processing, spatial modeling, and visualization with over 500 modules.
+
+[Visit Project →](https://grass.osgeo.org)
+:::
+
+::: {.project-card}
+#### gvSIG
+A desktop GIS application designed for capturing, storing, handling, analyzing, and deploying geographic information. Available in Bahasa Indonesia.
+
+[Visit Project →](http://www.gvsig.com)
+:::
+
+:::
+
+## Geospatial Libraries
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### GDAL/OGR
+The essential translator library for raster and vector geospatial data formats. Supports hundreds of formats and is the backbone of most geospatial software.
+
+[Visit Project →](https://gdal.org)
+:::
+
+::: {.project-card}
+#### GEOS
+Geometry Engine Open Source. A C/C++ library for computational geometry with a focus on algorithms used in geographic information systems software.
+
+[Visit Project →](https://libgeos.org)
+:::
+
+::: {.project-card}
+#### PROJ
+Cartographic projections and coordinate transformations library. Essential for working with Indonesia's various coordinate reference systems.
+
+[Visit Project →](https://proj.org)
+:::
+
+:::
+
+## Web Mapping
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### GeoServer
+An open source server for sharing geospatial data. Designed for interoperability, it publishes data from any major spatial data source using open standards (WMS, WFS, WCS).
+
+[Visit Project →](https://geoserver.org)
+:::
+
+::: {.project-card}
+#### MapServer
+A platform for publishing spatial data and interactive mapping applications to the web. Supports OGC standards and runs on all major operating systems.
+
+[Visit Project →](https://mapserver.org)
+:::
+
+::: {.project-card}
+#### OpenLayers
+A high-performance, feature-packed JavaScript library for creating interactive maps on the web. Powers many Indonesian geoportal applications.
+
+[Visit Project →](https://openlayers.org)
+:::
+
+::: {.project-card}
+#### Leaflet
+The leading open source JavaScript library for mobile-friendly interactive maps. Lightweight and perfect for web mapping applications.
+
+[Visit Project →](https://leafletjs.com)
+:::
+
+:::
+
+## Spatial Databases
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### PostGIS
+Spatial database extender for PostgreSQL. Adds support for geographic objects allowing location queries to be run in SQL. The standard for enterprise geospatial data management.
+
+[Visit Project →](https://postgis.net)
+:::
+
+::: {.project-card}
+#### SpatiaLite
+A spatial extension for SQLite. A lightweight, self-contained spatial database ideal for mobile and embedded applications.
+
+[Visit Project →](https://www.gaia-gis.it/fossil/libspatialite)
+:::
+
+:::
+
+## Content Management & Catalogs
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### GeoNode
+A web-based platform for developing geospatial information systems and deploying spatial data infrastructures. Used by several Indonesian agencies for data sharing.
+
+[Visit Project →](https://geonode.org)
+:::
+
+::: {.project-card}
+#### GeoNetwork
+A catalog application to manage spatially referenced resources. Provides metadata editing and search functions and supports OGC standards.
+
+[Visit Project →](https://geonetwork-opensource.org)
+:::
+
+::: {.project-card}
+#### pycsw
+An OGC CSW server implementation written in Python. Enables publishing and discovery of geospatial metadata via OGC standards.
+
+[Visit Project →](https://pycsw.org)
+:::
+
+:::
+
+## Community Projects
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### OpenStreetMap
+The free, editable map of the world. Indonesia is home to one of the most active OSM communities globally, with significant contributions to humanitarian mapping.
+
+[Visit Project →](https://www.openstreetmap.org)
+:::
+
+::: {.project-card}
+#### OSGeoLive
+A self-contained bootable DVD/USB with pre-configured open source geospatial applications. Perfect for workshops and trying out geospatial software.
+
+[Visit Project →](https://live.osgeo.org)
+:::
+
+:::
+
+:::
+:::

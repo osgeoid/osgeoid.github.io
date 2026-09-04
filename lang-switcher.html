@@ -1,0 +1,75 @@
+<script>
+// Auto-redirect Indonesian visitors to /id/ pages (once per session)
+(function () {
+  var path = window.location.pathname;
+  var isOnEnglish = !path.includes("/id/");
+  var alreadyChecked = sessionStorage.getItem("lang-checked");
+
+  if (isOnEnglish && !alreadyChecked) {
+    sessionStorage.setItem("lang-checked", "true");
+    fetch("https://ipapi.co/json/")
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        if (data.country_code === "ID") {
+          // Map current English page to Indonesian equivalent
+          var page = path.split("/").pop() || "index.html";
+          if (!page.endsWith(".html")) page = "index.html";
+          var idUrl = window.location.origin + "/id/" + page;
+          window.location.replace(idUrl);
+        }
+      })
+      .catch(function () { /* silently fail, stay on English */ });
+  }
+})();
+
+// Rewrite navbar links on Indonesian pages
+window.addEventListener("load", function () {
+  var path = window.location.pathname;
+  var isIndonesian = path.includes("/id/");
+
+  if (!isIndonesian) return;
+
+  var labels = {
+    "Home": "Beranda",
+    "About": "Tentang",
+    "Projects": "Proyek",
+    "Community": "Komunitas",
+    "Events": "Acara",
+    "Contact": "Kontak"
+  };
+
+  var pages = ["index.html", "about.html", "projects.html", "community.html", "events.html", "contact.html"];
+
+  function rewriteNav() {
+    var navLinks = document.querySelectorAll(".navbar-nav .nav-link");
+    navLinks.forEach(function (link) {
+      var href = (link.getAttribute("href") || "").trim();
+      var span = link.querySelector(".menu-text");
+      if (!span) return;
+
+      var text = span.textContent.trim();
+
+      // Skip language switcher links
+      if (text.indexOf("EN") !== -1 || text.indexOf("ID") !== -1) return;
+
+      // Translate menu labels
+      if (labels[text]) {
+        span.textContent = labels[text];
+      }
+
+      // Rewrite links to Indonesian versions
+      pages.forEach(function (page) {
+        if (href === "../" + page || href.endsWith("/" + page)) {
+          var newHref = href.replace(page, "id/" + page);
+          if (newHref.indexOf("/id/id/") === -1) {
+            link.setAttribute("href", newHref);
+          }
+        }
+      });
+    });
+  }
+
+  rewriteNav();
+  setTimeout(rewriteNav, 500);
+});
+</script>

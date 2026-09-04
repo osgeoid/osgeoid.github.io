@@ -1,0 +1,101 @@
+---
+title: "Events"
+pagetitle: "Events - OSGeo Indonesia"
+---
+
+::: {.page-header}
+# Events
+Workshops, meetups, and conferences across Indonesia
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+## Upcoming Events
+
+<!-- ::: {.event-item} -->
+<!-- ::: {.event-date} -->
+<!-- [MAY]{.month} -->
+<!-- [20]{.day} -->
+<!-- ::: -->
+<!-- ::: {.event-info} -->
+<!-- #### OSGeo Indonesia Monthly Meetup - Bandung -->
+<!-- **Location:** Bandung, Indonesia -->
+
+<!-- Monthly community meetup featuring lightning talks on open source geospatial technologies, project updates, and networking. -->
+<!-- ::: -->
+<!-- ::: -->
+
+::: {.event-item}
+::: {.event-date}
+[JUL]{.month}
+[TBA]{.day}
+:::
+::: {.event-info}
+#### PostGIS & Spatial Database Workshop
+**Location:** Tembalang, Semarang, Indonesia
+
+Learn how to manage and analyze geospatial data using PostGIS and PostgreSQL. Covers installation, spatial queries, indexing, and integration with QGIS.
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[AUG]{.month}
+[25]{.day}
+:::
+::: {.event-info}
+#### OpenStreetMap Mapathon
+**Location:** Online / Multiple Locations
+
+Collaborative mapping event to improve OpenStreetMap coverage in Indonesian regions. All skill levels welcome — we provide training!
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[AUG]{.month}
+[30]{.day}
+:::
+::: {.event-info}
+#### FOSS4G Hiroshima 2026
+**Location:** Hiroshima, Japan
+**Date:** 30 August – 3 September 2026
+
+The global open source geospatial conference comes to Hiroshima, Japan. Join the international geospatial community for talks, workshops, and networking. OSGeo Indonesia delegation welcome!
+:::
+:::
+
+## Past Events
+
+### 2025
+
+- **FOSS4G 2025** — Auckland, New Zealand (OSGeo Indonesia delegation)
+- **QGIS Workshop Series** — Jakarta, Bandung, Surabaya
+- **OSGeo Indonesia Annual Meetup** — Yogyakarta
+- **Humanitarian OpenStreetMap Mapathon** — Online, nationwide participation
+
+### 2024
+
+- **FOSS4G Asia 2024** — Community participation
+- **GeoNode Training Workshop** — Jakarta
+- **Open Data Day Indonesia** — Multiple cities
+- **University GIS Day Celebrations** — Partner universities across Indonesia
+
+### 2019
+
+- **[Meet up Perdana OSGeo ID](https://twitter.com/osgeoid/status/1180163569993650176)** — 4 October 2019, the chapter's first community meetup
+
+## Host an Event
+
+Interested in hosting an OSGeo Indonesia event in your city or institution? We provide:
+
+- Workshop materials and curricula
+- Speaker and trainer connections
+- Promotion through our community channels
+- OSGeo branding and support
+
+[Contact us](contact.qmd) to discuss hosting an event.
+
+:::
+:::

@@ -1,0 +1,207 @@
+---
+title: "OSGeo Indonesia"
+pagetitle: "OSGeo Indonesia - Yayasan Geospasial Sumber Terbuka"
+---
+
+::: {.hero-banner}
+
+# OSGeo Indonesia
+
+::: {.tagline}
+Kompas Geospasial Sumber Terbuka Anda di Indonesia
+:::
+
+Memberdayakan komunitas geospasial Indonesia melalui perangkat lunak sumber terbuka, data terbuka, dan pendidikan terbuka.
+
+[Jelajahi Proyek](projects.qmd){.btn-hero}
+[Gabung Komunitas](community.qmd){.btn-hero-outline}
+
+:::
+
+
+::: {.section-block .bg-light}
+::: {.content-container}
+
+::: {.section-title}
+Apa itu OSGeo Indonesia?
+:::
+
+::: {.section-subtitle}
+Kami adalah chapter lokal Indonesia dari Open Source Geospatial Foundation (OSGeo), yang berdedikasi untuk mempromosikan dan mendukung pengembangan teknologi geospasial sumber terbuka di seluruh Nusantara.
+:::
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;"}
+
+::: {.feature-card}
+::: {.card-icon}
+🌍
+:::
+
+### GIS Sumber Terbuka
+Mempromosikan perangkat GIS sumber terbuka yang andal seperti QGIS, GRASS GIS, dan PostGIS untuk pemetaan dan analisis spasial di seluruh Indonesia.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+👥
+:::
+
+### Membangun Komunitas
+Menghubungkan para profesional geospasial, peneliti, mahasiswa, dan peminat di seluruh kepulauan Indonesia.
+:::
+
+::: {.feature-card}
+::: {.card-icon}
+📚
+:::
+
+### Pendidikan & Pelatihan
+Menyediakan lokakarya, tutorial, dan sumber daya untuk membangun kapasitas geospasial menggunakan perangkat sumber terbuka.
+:::
+
+:::
+
+:::
+:::
+
+
+::: {.stats-section}
+::: {.content-container}
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;"}
+
+::: {.stat-item}
+[34]{.stat-number}
+[Provinsi Terjangkau]{.stat-label}
+:::
+
+::: {.stat-item}
+[500+]{.stat-number}
+[Anggota Komunitas]{.stat-label}
+:::
+
+::: {.stat-item}
+[5+]{.stat-number}
+[Lokakarya Diselenggarakan]{.stat-label}
+:::
+
+::: {.stat-item}
+[3+]{.stat-number}
+[Mitra Universitas]{.stat-label}
+:::
+
+:::
+
+:::
+:::
+
+
+::: {.section-block}
+::: {.content-container}
+
+::: {.section-title}
+Proyek Unggulan
+:::
+
+::: {.section-subtitle}
+Perangkat geospasial sumber terbuka yang mendukung infrastruktur pemetaan dan data spasial Indonesia.
+:::
+
+::: {.grid style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 1.5rem;"}
+
+::: {.project-card}
+#### QGIS
+Sistem informasi geografis sumber terbuka untuk membuat, mengedit, memvisualisasikan, dan menganalisis data geospasial. Banyak digunakan di instansi pemerintah dan universitas Indonesia.
+:::
+
+::: {.project-card}
+#### PostGIS
+Ekstensi basis data spasial untuk PostgreSQL. Mendukung banyak infrastruktur data geospasial dan layanan pemetaan web di Indonesia.
+:::
+
+::: {.project-card}
+#### GeoServer
+Server sumber terbuka untuk berbagi data geospasial. Digunakan untuk mempublikasikan data spasial Indonesia melalui standar OGC.
+:::
+
+::: {.project-card}
+#### OpenStreetMap
+Peta dunia yang bebas dan dapat diedit. Indonesia memiliki salah satu komunitas OSM paling aktif di dunia.
+:::
+
+::: {.project-card}
+#### GDAL/OGR
+Pustaka penerjemah penting untuk format data geospasial raster dan vektor, mendukung ratusan format.
+:::
+
+::: {.project-card}
+#### GeoNode
+Platform berbasis web untuk mengembangkan sistem informasi geospasial dan menyebarkan infrastruktur data spasial.
+:::
+
+:::
+
+:::
+:::
+
+
+::: {.section-block .bg-green}
+::: {.content-container}
+
+::: {.section-title}
+Acara Mendatang
+:::
+
+::: {.section-subtitle}
+Bergabunglah dalam lokakarya, pertemuan, dan konferensi di seluruh Indonesia.
+:::
+
+::: {.event-item}
+::: {.event-date}
+[APR]{.month}
+[15]{.day}
+:::
+::: {.event-info}
+#### Lokakarya QGIS - Jakarta
+Pengantar QGIS untuk analisis spasial. Lokakarya praktis untuk pengguna pemula dan menengah.
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[MEI]{.month}
+[20]{.day}
+:::
+::: {.event-info}
+#### Pertemuan Bulanan OSGeo Indonesia - Bandung
+Pertemuan komunitas bulanan dengan presentasi tentang teknologi geospasial sumber terbuka.
+:::
+:::
+
+::: {.event-item}
+::: {.event-date}
+[JUN]{.month}
+[10]{.day}
+:::
+::: {.event-info}
+#### FOSS4G Asia 2026
+Konferensi geospasial sumber terbuka terbesar di Asia. Panggilan makalah dibuka!
+:::
+:::
+
+[Lihat Semua Acara →](events.qmd){.btn-hero style="background-color: #2E7D32; color: white; border-color: #2E7D32;"}
+
+:::
+:::
+
+
+::: {.cta-section}
+
+## Ayo Bergabung
+
+Baik Anda seorang pengembang, peneliti, mahasiswa, atau peminat pemetaan — ada tempat untuk Anda di komunitas OSGeo Indonesia.
+
+[Gabung Komunitas](community.qmd){.btn-hero}
+[Hubungi Kami](contact.qmd){.btn-hero-outline}
+
+:::
