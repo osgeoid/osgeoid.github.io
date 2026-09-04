@@ -1,0 +1,24 @@
+# Defaults for every contributor post in this directory.
+#
+# The site-wide custom.scss hides #title-block-header so the hand-designed
+# .page-header banners on the static pages are not duplicated. Posts DO want
+# that block — it is what renders the author byline and date — so it is
+# switched back on here, scoped to this directory only.
+title-block-style: default
+title-block-banner: "#2E7D32"
+title-block-banner-color: white
+
+toc: true
+toc-location: right
+page-layout: article
+
+# Show the author and both dates on every post.
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    include-in-header:
+      - text: |
+          <style>
+            #title-block-header { display: block !important; }
+          </style>

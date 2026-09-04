@@ -1,0 +1,35 @@
+---
+title: "Berita"
+pagetitle: "Berita - OSGeo Indonesia"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  fields: [date, title, author, description, categories, reading-time]
+  categories: true
+  sort-ui: [date, title, author]
+  filter-ui: true
+  feed: true
+  page-size: 12
+---
+
+::: {.page-header}
+# Berita
+Tulisan dari komunitas geospasial sumber terbuka Indonesia
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+Laporan acara, tutorial, pembaruan proyek, dan berita komunitas — ditulis oleh
+anggota chapter. Setiap tulisan mencantumkan nama penulisnya, dan seluruh
+riwayat penyuntingannya terbuka di
+[GitHub](https://github.com/osgeoid/osgeoid.github.io/commits/master/id/posts).
+
+**Ingin menulis untuk situs ini?** Lihat
+[panduan kontribusi](https://github.com/osgeoid/osgeoid.github.io/blob/master/CONTRIBUTING.md).
+Nama Anda tetap tercantum sebagai penulis, baik pada tulisan itu sendiri
+maupun dalam riwayat kontributor repositori.
+
+:::
+:::

@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+  # CONTRIBUTING.md is for GitHub, not a page on the site.
+  render:
+    - "*.qmd"
+    - "id/*.qmd"
+    - "posts/**/*.qmd"
+    - "id/posts/**/*.qmd"
   # Copied into docs/ on every render — without this, `quarto render`
   # cleans the output dir and drops the GitHub Pages custom-domain file.
   resources:
@@ -10,6 +16,14 @@ project:
 website:
   title: "OSGeo Indonesia"
   site-url: https://osgeo.id/
+
+  # Attribution: every page gets "Edit this page / View source / Report an
+  # issue" links pointing at that file on GitHub, so readers can see the full
+  # authorship and change history of anything they are reading.
+  repo-url: https://github.com/osgeoid/osgeoid.github.io
+  repo-branch: master
+  repo-actions: [edit, source, issue]
+
   navbar:
     background: "#2E7D32"
     foreground: "#ffffff"
@@ -25,6 +39,8 @@ website:
         text: Community
       - href: events.qmd
         text: Events
+      - href: news.qmd
+        text: News
       - href: contact.qmd
         text: Contact
     right:

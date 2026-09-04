@@ -1,0 +1,20 @@
+# Bawaan untuk setiap tulisan kontributor di direktori ini.
+# Lihat catatan di posts/_metadata.yml — blok judul Quarto dinyalakan kembali
+# di sini karena di situlah nama penulis dan tanggal ditampilkan.
+title-block-style: default
+title-block-banner: "#2E7D32"
+title-block-banner-color: white
+
+toc: true
+toc-location: right
+page-layout: article
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    include-in-header:
+      - text: |
+          <style>
+            #title-block-header { display: block !important; }
+          </style>

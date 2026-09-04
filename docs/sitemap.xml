@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://osgeo.id/id/about.html</loc>
+    <loc>https://osgeo.id/projects.html</loc>
     <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/news.html</loc>
+    <lastmod>2026-09-04T14:18:24.464Z</lastmod>
   </url>
   <url>
     <loc>https://osgeo.id/id/projects.html</loc>
     <lastmod>2026-09-04T13:26:01.000Z</lastmod>
   </url>
   <url>
-    <loc>https://osgeo.id/id/contact.html</loc>
-    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+    <loc>https://osgeo.id/id/news.html</loc>
+    <lastmod>2026-09-04T14:18:31.932Z</lastmod>
   </url>
   <url>
-    <loc>https://osgeo.id/about.html</loc>
-    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://osgeo.id/projects.html</loc>
-    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://osgeo.id/contact.html</loc>
-    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://osgeo.id/community.html</loc>
-    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://osgeo.id/events.html</loc>
-    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://osgeo.id/index.html</loc>
+    <loc>https://osgeo.id/id/events.html</loc>
     <lastmod>2026-09-04T13:26:01.000Z</lastmod>
   </url>
   <url>
@@ -41,11 +25,43 @@
     <lastmod>2026-09-04T13:26:01.000Z</lastmod>
   </url>
   <url>
-    <loc>https://osgeo.id/id/events.html</loc>
+    <loc>https://osgeo.id/events.html</loc>
+    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/community.html</loc>
+    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/about.html</loc>
+    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/contact.html</loc>
+    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/id/about.html</loc>
+    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/id/contact.html</loc>
     <lastmod>2026-09-04T13:26:01.000Z</lastmod>
   </url>
   <url>
     <loc>https://osgeo.id/id/index.html</loc>
     <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/id/posts/2026-09-04-kontribusi-situs/index.html</loc>
+    <lastmod>2026-09-04T14:19:29.157Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/index.html</loc>
+    <lastmod>2026-09-04T13:26:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://osgeo.id/posts/2026-09-04-website-contributions/index.html</loc>
+    <lastmod>2026-09-04T14:19:07.027Z</lastmod>
   </url>
 </urlset>

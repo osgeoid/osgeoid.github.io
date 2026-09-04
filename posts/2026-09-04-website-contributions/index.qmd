@@ -1,0 +1,76 @@
+---
+title: "Write for osgeo.id: the chapter site is now open to contributors"
+description: |
+  The website has a News section. Anyone in the community can submit a post,
+  keep their byline, and have their name recorded in the site's public history.
+author:
+  - name: Firman Hadi
+    url: https://github.com/firmanhadi
+    affiliation: Department of Geodetic Engineering, Universitas Diponegoro
+date: 2026-09-04
+categories: [announcement, community]
+---
+
+The OSGeo Indonesia website now has a **News** section, and it is open to
+anyone in the community.
+
+Until now the site was a set of static pages that only a couple of people
+edited. That works for pages like *About* and *Contact*, which rarely change,
+but it left nowhere to put the things the community actually produces —
+workshop write-ups, tutorials, notes from a mapping day, a report from a
+conference someone attended.
+
+## What you can write
+
+Anything useful to the Indonesian open source geospatial community:
+
+- **Event reports** — what happened at a meetup, workshop, or mapathon
+- **Tutorials** — how you solved something in QGIS, PostGIS, GeoServer, GRASS
+- **Project updates** — progress on something you are building or mapping
+- **Conference notes** — takeaways from FOSS4G or FOSS4G Asia
+- **Community news** — a new local group, a university adopting open source GIS
+
+English or Bahasa Indonesia are both fine. Write in whichever you think of
+first — a good post in one language beats a hesitant one in two.
+
+## You keep the credit
+
+Every post carries an `author` field, and your name appears:
+
+- on the post itself, under the title
+- on the [News](../../news.qmd) listing, next to the date
+- in the repository's commit history, permanently attached to your GitHub
+  account
+
+Every page on this site also has **Edit this page**, **View source**, and
+**Report an issue** links in the sidebar. Those point at the exact file on
+GitHub, so anyone reading can see who wrote a page, who changed it, and
+what each change was. Nothing here is anonymous, and nothing is hidden.
+
+## How to submit
+
+The full walkthrough is in
+[CONTRIBUTING.md](https://github.com/osgeoid/osgeoid.github.io/blob/master/CONTRIBUTING.md),
+but the short version:
+
+1. Fork [osgeoid/osgeoid.github.io](https://github.com/osgeoid/osgeoid.github.io)
+2. Create `posts/YYYY-MM-DD-your-title/index.qmd`
+3. Fill in the front matter — `title`, `description`, `author`, `date`,
+   `categories`
+4. Write the post in Markdown, put any images alongside it in the same folder
+5. Open a pull request
+
+If git is unfamiliar, that is genuinely fine. Write the post in whatever you
+normally use and send it to the
+[mailing list](https://lists.osgeo.org/mailman/listinfo/indonesia) or the
+[Telegram group](https://t.me/osgeoid) — someone will help you get it in, and
+the byline still goes to you.
+
+## Why bother with the git workflow
+
+Because it makes authorship real rather than declared. The commit history is
+the record: it shows who wrote what, when, and what changed since. That is the
+same reason open source geospatial projects work the way they do, and it seems
+right that the chapter's own site works that way too.
+
+Looking forward to reading what you write.

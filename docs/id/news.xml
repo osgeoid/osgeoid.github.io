@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>OSGeo Indonesia</title>
+<link>https://osgeo.id/id/news.html</link>
+<atom:link href="https://osgeo.id/id/news.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Thu, 03 Sep 2026 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>Menulis untuk osgeo.id: situs chapter kini terbuka bagi kontributor</title>
+  <dc:creator>Firman Hadi</dc:creator>
+  <link>https://osgeo.id/id/posts/2026-09-04-kontribusi-situs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Situs web OSGeo Indonesia kini memiliki bagian <strong>Berita</strong>, dan terbuka bagi siapa pun di komunitas.</p>
+<p>Selama ini situs ini hanya berisi halaman statis yang disunting oleh satu dua orang saja. Itu cukup untuk halaman seperti <em>Tentang</em> dan <em>Kontak</em> yang jarang berubah, tetapi tidak menyediakan tempat bagi hal-hal yang sebenarnya dihasilkan komunitas — laporan lokakarya, tutorial, catatan dari kegiatan pemetaan, atau laporan dari konferensi yang dihadiri seseorang.</p>
+<section id="apa-yang-dapat-anda-tulis" class="level2">
+<h2 class="anchored" data-anchor-id="apa-yang-dapat-anda-tulis">Apa yang dapat Anda tulis</h2>
+<p>Apa pun yang bermanfaat bagi komunitas geospasial sumber terbuka Indonesia:</p>
+<ul>
+<li><strong>Laporan acara</strong> — apa yang terjadi pada pertemuan, lokakarya, atau mapathon</li>
+<li><strong>Tutorial</strong> — bagaimana Anda menyelesaikan sesuatu di QGIS, PostGIS, GeoServer, GRASS</li>
+<li><strong>Pembaruan proyek</strong> — perkembangan sesuatu yang sedang Anda bangun atau petakan</li>
+<li><strong>Catatan konferensi</strong> — hal penting dari FOSS4G atau FOSS4G Asia</li>
+<li><strong>Berita komunitas</strong> — kelompok lokal baru, atau universitas yang mulai mengadopsi GIS sumber terbuka</li>
+</ul>
+<p>Bahasa Indonesia maupun Inggris sama-sama diterima. Tulislah dalam bahasa yang lebih dahulu terlintas — satu tulisan yang baik dalam satu bahasa lebih berharga daripada tulisan yang ragu-ragu dalam dua bahasa.</p>
+</section>
+<section id="nama-anda-tetap-tercantum" class="level2">
+<h2 class="anchored" data-anchor-id="nama-anda-tetap-tercantum">Nama Anda tetap tercantum</h2>
+<p>Setiap tulisan memuat kolom <code>author</code>, dan nama Anda akan muncul:</p>
+<ul>
+<li>pada tulisan itu sendiri, di bawah judul</li>
+<li>pada daftar <a href="../../../id/news.html">Berita</a>, di samping tanggal</li>
+<li>dalam riwayat commit repositori, melekat secara permanen pada akun GitHub Anda</li>
+</ul>
+<p>Setiap halaman di situs ini juga memiliki tautan <strong>Edit this page</strong>, <strong>View source</strong>, dan <strong>Report an issue</strong> di bilah sisi. Tautan tersebut menuju berkas yang bersangkutan di GitHub, sehingga siapa pun yang membaca dapat melihat siapa penulisnya, siapa yang mengubahnya, dan apa saja perubahannya. Tidak ada yang anonim, dan tidak ada yang disembunyikan.</p>
+</section>
+<section id="cara-mengirim-tulisan" class="level2">
+<h2 class="anchored" data-anchor-id="cara-mengirim-tulisan">Cara mengirim tulisan</h2>
+<p>Panduan lengkap ada di <a href="https://github.com/osgeoid/osgeoid.github.io/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a>, tetapi ringkasnya:</p>
+<ol type="1">
+<li>Fork <a href="https://github.com/osgeoid/osgeoid.github.io">osgeoid/osgeoid.github.io</a></li>
+<li>Buat <code>id/posts/YYYY-MM-DD-judul-anda/index.qmd</code></li>
+<li>Isi front matter — <code>title</code>, <code>description</code>, <code>author</code>, <code>date</code>, <code>categories</code></li>
+<li>Tulis isinya dalam Markdown, letakkan gambar di folder yang sama</li>
+<li>Buka pull request</li>
+</ol>
+<p>Jika Anda belum terbiasa dengan git, itu sama sekali bukan masalah. Tulis saja dengan perangkat yang biasa Anda pakai, lalu kirimkan ke <a href="https://lists.osgeo.org/mailman/listinfo/indonesia">milis</a> atau <a href="https://t.me/osgeoid">grup Telegram</a> — akan ada yang membantu memasukkannya, dan nama Anda tetap tercantum sebagai penulis.</p>
+</section>
+<section id="mengapa-memakai-alur-kerja-git" class="level2">
+<h2 class="anchored" data-anchor-id="mengapa-memakai-alur-kerja-git">Mengapa memakai alur kerja git</h2>
+<p>Karena dengan begitu kepenulisan menjadi nyata, bukan sekadar pernyataan. Riwayat commit adalah catatannya: menunjukkan siapa menulis apa, kapan, dan apa yang berubah sejak saat itu. Itulah cara kerja proyek geospasial sumber terbuka pada umumnya, dan rasanya pantas jika situs chapter ini bekerja dengan cara yang sama.</p>
+<p>Kami menantikan tulisan Anda.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>pengumuman</category>
+  <category>komunitas</category>
+  <guid>https://osgeo.id/id/posts/2026-09-04-kontribusi-situs/</guid>
+  <pubDate>Thu, 03 Sep 2026 15:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

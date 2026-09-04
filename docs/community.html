@@ -117,6 +117,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
@@ -345,17 +349,29 @@ ul.task-list li input[type="checkbox"] {
   var isOnEnglish = !path.includes("/id/");
   var alreadyChecked = sessionStorage.getItem("lang-checked");
 
+  // Only the top-level pages have a guaranteed 1:1 Indonesian counterpart.
+  // Posts do not: they are written independently in each language, so a post
+  // has no Indonesian equivalent to redirect to. Sending a reader from a
+  // shared post link to /id/index.html would lose the article they clicked,
+  // so anything not in this list is left alone.
+  var translatable = [
+    "index.html", "about.html", "projects.html",
+    "community.html", "events.html", "news.html", "contact.html"
+  ];
+
   if (isOnEnglish && !alreadyChecked) {
     sessionStorage.setItem("lang-checked", "true");
+
+    var page = path.split("/").pop();
+    if (page === "" || path === "/") page = "index.html";
+
+    if (translatable.indexOf(page) === -1) return;
+
     fetch("https://ipapi.co/json/")
       .then(function (r) { return r.json(); })
       .then(function (data) {
         if (data.country_code === "ID") {
-          // Map current English page to Indonesian equivalent
-          var page = path.split("/").pop() || "index.html";
-          if (!page.endsWith(".html")) page = "index.html";
-          var idUrl = window.location.origin + "/id/" + page;
-          window.location.replace(idUrl);
+          window.location.replace(window.location.origin + "/id/" + page);
         }
       })
       .catch(function () { /* silently fail, stay on English */ });
@@ -375,10 +391,11 @@ window.addEventListener("load", function () {
     "Projects": "Proyek",
     "Community": "Komunitas",
     "Events": "Acara",
+    "News": "Berita",
     "Contact": "Kontak"
   };
 
-  var pages = ["index.html", "about.html", "projects.html", "community.html", "events.html", "contact.html"];
+  var pages = ["index.html", "about.html", "projects.html", "community.html", "events.html", "news.html", "contact.html"];
 
   function rewriteNav() {
     var navLinks = document.querySelectorAll(".navbar-nav .nav-link");
@@ -821,7 +838,7 @@ window.addEventListener("load", function () {
     </div>   
     <div class="nav-footer-center">
 <p>© 2026 OSGeo Indonesia Local Chapter. All rights reserved.<br> Part of the <a href="https://www.osgeo.org/" style="color: #81C784;">Open Source Geospatial Foundation</a></p>
-</div>
+<div class="toc-actions"><ul><li><a href="https://github.com/osgeoid/osgeoid.github.io/edit/master/community.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/osgeoid/osgeoid.github.io/blob/master/community.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/osgeoid/osgeoid.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

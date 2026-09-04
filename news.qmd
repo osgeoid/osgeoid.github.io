@@ -1,0 +1,35 @@
+---
+title: "News"
+pagetitle: "News - OSGeo Indonesia"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  fields: [date, title, author, description, categories, reading-time]
+  categories: true
+  sort-ui: [date, title, author]
+  filter-ui: true
+  feed: true
+  page-size: 12
+---
+
+::: {.page-header}
+# News
+Writing from the Indonesian open source geospatial community
+:::
+
+::: {.section-block}
+::: {.content-container}
+
+Event reports, tutorials, project updates, and community news — written by
+members of the chapter. Every post carries its author's name, and the full
+edit history of each one is public on
+[GitHub](https://github.com/osgeoid/osgeoid.github.io/commits/master/posts).
+
+**Want to write for the site?** See the
+[contributing guide](https://github.com/osgeoid/osgeoid.github.io/blob/master/CONTRIBUTING.md).
+You keep the byline, and your name appears both on the post and in the
+repository's contributor history.
+
+:::
+:::

@@ -1,0 +1,80 @@
+---
+title: "Menulis untuk osgeo.id: situs chapter kini terbuka bagi kontributor"
+description: |
+  Situs web kini memiliki bagian Berita. Siapa pun di komunitas dapat mengirim
+  tulisan, tetap tercantum sebagai penulis, dan namanya tercatat dalam riwayat
+  publik situs ini.
+author:
+  - name: Firman Hadi
+    url: https://github.com/firmanhadi
+    affiliation: Departemen Teknik Geodesi, Universitas Diponegoro
+date: 2026-09-04
+categories: [pengumuman, komunitas]
+---
+
+Situs web OSGeo Indonesia kini memiliki bagian **Berita**, dan terbuka bagi
+siapa pun di komunitas.
+
+Selama ini situs ini hanya berisi halaman statis yang disunting oleh satu dua
+orang saja. Itu cukup untuk halaman seperti *Tentang* dan *Kontak* yang jarang
+berubah, tetapi tidak menyediakan tempat bagi hal-hal yang sebenarnya
+dihasilkan komunitas — laporan lokakarya, tutorial, catatan dari kegiatan
+pemetaan, atau laporan dari konferensi yang dihadiri seseorang.
+
+## Apa yang dapat Anda tulis
+
+Apa pun yang bermanfaat bagi komunitas geospasial sumber terbuka Indonesia:
+
+- **Laporan acara** — apa yang terjadi pada pertemuan, lokakarya, atau mapathon
+- **Tutorial** — bagaimana Anda menyelesaikan sesuatu di QGIS, PostGIS,
+  GeoServer, GRASS
+- **Pembaruan proyek** — perkembangan sesuatu yang sedang Anda bangun atau petakan
+- **Catatan konferensi** — hal penting dari FOSS4G atau FOSS4G Asia
+- **Berita komunitas** — kelompok lokal baru, atau universitas yang mulai
+  mengadopsi GIS sumber terbuka
+
+Bahasa Indonesia maupun Inggris sama-sama diterima. Tulislah dalam bahasa yang
+lebih dahulu terlintas — satu tulisan yang baik dalam satu bahasa lebih berharga
+daripada tulisan yang ragu-ragu dalam dua bahasa.
+
+## Nama Anda tetap tercantum
+
+Setiap tulisan memuat kolom `author`, dan nama Anda akan muncul:
+
+- pada tulisan itu sendiri, di bawah judul
+- pada daftar [Berita](../../news.qmd), di samping tanggal
+- dalam riwayat commit repositori, melekat secara permanen pada akun GitHub Anda
+
+Setiap halaman di situs ini juga memiliki tautan **Edit this page**,
+**View source**, dan **Report an issue** di bilah sisi. Tautan tersebut menuju
+berkas yang bersangkutan di GitHub, sehingga siapa pun yang membaca dapat
+melihat siapa penulisnya, siapa yang mengubahnya, dan apa saja perubahannya.
+Tidak ada yang anonim, dan tidak ada yang disembunyikan.
+
+## Cara mengirim tulisan
+
+Panduan lengkap ada di
+[CONTRIBUTING.md](https://github.com/osgeoid/osgeoid.github.io/blob/master/CONTRIBUTING.md),
+tetapi ringkasnya:
+
+1. Fork [osgeoid/osgeoid.github.io](https://github.com/osgeoid/osgeoid.github.io)
+2. Buat `id/posts/YYYY-MM-DD-judul-anda/index.qmd`
+3. Isi front matter — `title`, `description`, `author`, `date`, `categories`
+4. Tulis isinya dalam Markdown, letakkan gambar di folder yang sama
+5. Buka pull request
+
+Jika Anda belum terbiasa dengan git, itu sama sekali bukan masalah. Tulis saja
+dengan perangkat yang biasa Anda pakai, lalu kirimkan ke
+[milis](https://lists.osgeo.org/mailman/listinfo/indonesia) atau
+[grup Telegram](https://t.me/osgeoid) — akan ada yang membantu memasukkannya,
+dan nama Anda tetap tercantum sebagai penulis.
+
+## Mengapa memakai alur kerja git
+
+Karena dengan begitu kepenulisan menjadi nyata, bukan sekadar pernyataan.
+Riwayat commit adalah catatannya: menunjukkan siapa menulis apa, kapan, dan apa
+yang berubah sejak saat itu. Itulah cara kerja proyek geospasial sumber terbuka
+pada umumnya, dan rasanya pantas jika situs chapter ini bekerja dengan cara yang
+sama.
+
+Kami menantikan tulisan Anda.
