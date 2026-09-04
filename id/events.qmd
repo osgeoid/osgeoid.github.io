@@ -27,6 +27,27 @@ Lokakarya, pertemuan, dan konferensi di seluruh Indonesia
   saat acara lewat; pindahkan ke Acara Sebelumnya kapan pun sempat.
 -->
 
+::: {.event-item data-end="2026-11-21"}
+::: {.event-date}
+[NOV]{.month}
+[21]{.day}
+:::
+::: {.event-info}
+#### Lokakarya QGIS — Semarang
+**Lokasi:** Semarang, Indonesia
+**Tanggal:** Sabtu, 21 November 2026
+
+Lokakarya QGIS praktik langsung yang diselenggarakan pada pekan PostGIS Day,
+bersamaan dengan perayaan [GIS Day](https://www.gisday.com/) (18 November) dan
+[PostGIS Day](https://postgisday.org/) (19 November) global. Cocok untuk pemula
+maupun siapa pun yang ingin beralih dari GIS berbayar ke sumber terbuka.
+
+Informasi pendaftaran akan diumumkan melalui
+[milis](https://lists.osgeo.org/mailman/listinfo/indonesia) dan
+[grup Telegram](https://t.me/osgeoid) kami.
+:::
+:::
+
 ::: {.event-item data-end="2026-08-31"}
 ::: {.event-date}
 [AGT]{.month}

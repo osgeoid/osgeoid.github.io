@@ -28,6 +28,27 @@ Workshops, meetups, and conferences across Indonesia
   move it to Past Events at your leisure.
 -->
 
+::: {.event-item data-end="2026-11-21"}
+::: {.event-date}
+[NOV]{.month}
+[21]{.day}
+:::
+::: {.event-info}
+#### QGIS Workshop — Semarang
+**Location:** Semarang, Indonesia
+**Date:** Saturday, 21 November 2026
+
+A hands-on QGIS workshop held during PostGIS Day week, alongside the global
+[GIS Day](https://www.gisday.com/) (18 November) and
+[PostGIS Day](https://postgisday.org/) (19 November) celebrations. Suitable for
+newcomers and for anyone wanting to move from proprietary GIS to open source.
+
+Registration details will be announced on our
+[mailing list](https://lists.osgeo.org/mailman/listinfo/indonesia) and
+[Telegram group](https://t.me/osgeoid).
+:::
+:::
+
 ::: {.event-item data-end="2026-08-31"}
 ::: {.event-date}
 [AUG]{.month}
