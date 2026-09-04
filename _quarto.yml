@@ -72,3 +72,4 @@ format:
     page-layout: full
     include-after-body:
       - lang-switcher.html
+      - events-filter.html

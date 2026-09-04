@@ -13,22 +13,24 @@ Workshops, meetups, and conferences across Indonesia
 
 ## Upcoming Events
 
-<!-- ::: {.event-item} -->
-<!-- ::: {.event-date} -->
-<!-- [MAY]{.month} -->
-<!-- [20]{.day} -->
-<!-- ::: -->
-<!-- ::: {.event-info} -->
-<!-- #### OSGeo Indonesia Monthly Meetup - Bandung -->
-<!-- **Location:** Bandung, Indonesia -->
+<!--
+  Each event carries data-end="YYYY-MM-DD" — the LAST day it runs. Events are
+  hidden from this section automatically once that day has passed, and sorted
+  soonest-first, both computed in the reader's browser (see events-filter.html).
+  This must happen client-side: the site has no scheduled build, so anything
+  decided at render time would go stale the moment a date passed.
 
-<!-- Monthly community meetup featuring lightning talks on open source geospatial technologies, project updates, and networking. -->
-<!-- ::: -->
-<!-- ::: -->
+  For a single-day event, data-end is that day. For a multi-day event, use the
+  final day so it stays listed while it is still running. An event with no
+  data-end is always shown — use that only for genuinely undated entries.
 
-::: {.event-item}
+  To add an event, copy one block. Nothing needs to be removed when it passes;
+  move it to Past Events at your leisure.
+-->
+
+::: {.event-item data-end="2026-08-31"}
 ::: {.event-date}
-[JUL]{.month}
+[AUG]{.month}
 [TBA]{.day}
 :::
 ::: {.event-info}
@@ -39,7 +41,7 @@ Learn how to manage and analyze geospatial data using PostGIS and PostgreSQL. Co
 :::
 :::
 
-::: {.event-item}
+::: {.event-item data-end="2026-08-25"}
 ::: {.event-date}
 [AUG]{.month}
 [25]{.day}
@@ -52,7 +54,7 @@ Collaborative mapping event to improve OpenStreetMap coverage in Indonesian regi
 :::
 :::
 
-::: {.event-item}
+::: {.event-item data-end="2026-09-03"}
 ::: {.event-date}
 [AUG]{.month}
 [30]{.day}
@@ -64,6 +66,13 @@ Collaborative mapping event to improve OpenStreetMap coverage in Indonesian regi
 
 The global open source geospatial conference comes to Hiroshima, Japan. Join the international geospatial community for talks, workshops, and networking. OSGeo Indonesia delegation welcome!
 :::
+:::
+
+::: {#no-upcoming-events .no-events style="display: none;"}
+No events are scheduled at the moment. New workshops and meetups are announced
+on our [mailing list](https://lists.osgeo.org/mailman/listinfo/indonesia) and
+[Telegram group](https://t.me/osgeoid) — and if you would like to host one,
+[get in touch](contact.qmd).
 :::
 
 ## Past Events

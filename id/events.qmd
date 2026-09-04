@@ -13,22 +13,23 @@ Lokakarya, pertemuan, dan konferensi di seluruh Indonesia
 
 ## Acara Mendatang
 
-<!-- ::: {.event-item} -->
-<!-- ::: {.event-date} -->
-<!-- [MEI]{.month} -->
-<!-- [20]{.day} -->
-<!-- ::: -->
-<!-- ::: {.event-info} -->
-<!-- #### Pertemuan Bulanan OSGeo Indonesia - Bandung -->
-<!-- **Lokasi:** Bandung, Indonesia -->
+<!--
+  Setiap acara memuat data-end="YYYY-MM-DD" — hari TERAKHIR acara berlangsung.
+  Acara otomatis disembunyikan dari bagian ini setelah tanggal tersebut lewat,
+  dan diurutkan dari yang paling dekat, dihitung di peramban pembaca
+  (lihat events-filter.html).
 
-<!-- Pertemuan komunitas bulanan yang menampilkan presentasi singkat tentang teknologi geospasial sumber terbuka, pembaruan proyek, dan jejaring. -->
-<!-- ::: -->
-<!-- ::: -->
+  Untuk acara satu hari, data-end adalah hari itu sendiri. Untuk acara beberapa
+  hari, gunakan hari terakhir agar tetap tampil selama masih berlangsung. Acara
+  tanpa data-end akan selalu ditampilkan.
 
-::: {.event-item}
+  Untuk menambah acara, salin salah satu blok. Tidak perlu menghapus apa pun
+  saat acara lewat; pindahkan ke Acara Sebelumnya kapan pun sempat.
+-->
+
+::: {.event-item data-end="2026-08-31"}
 ::: {.event-date}
-[JUL]{.month}
+[AGT]{.month}
 [TBA]{.day}
 :::
 ::: {.event-info}
@@ -39,7 +40,7 @@ Pelajari cara mengelola dan menganalisis data geospasial menggunakan PostGIS dan
 :::
 :::
 
-::: {.event-item}
+::: {.event-item data-end="2026-08-25"}
 ::: {.event-date}
 [AGT]{.month}
 [25]{.day}
@@ -52,7 +53,7 @@ Acara pemetaan kolaboratif untuk meningkatkan cakupan OpenStreetMap di wilayah I
 :::
 :::
 
-::: {.event-item}
+::: {.event-item data-end="2026-09-03"}
 ::: {.event-date}
 [AGT]{.month}
 [30]{.day}
@@ -64,6 +65,13 @@ Acara pemetaan kolaboratif untuk meningkatkan cakupan OpenStreetMap di wilayah I
 
 Konferensi geospasial sumber terbuka global hadir di Hiroshima, Jepang. Bergabunglah dengan komunitas geospasial internasional untuk presentasi, lokakarya, dan jejaring. Delegasi OSGeo Indonesia dipersilakan!
 :::
+:::
+
+::: {#no-upcoming-events .no-events style="display: none;"}
+Belum ada acara yang dijadwalkan saat ini. Lokakarya dan pertemuan baru
+diumumkan melalui [milis](https://lists.osgeo.org/mailman/listinfo/indonesia)
+dan [grup Telegram](https://t.me/osgeoid) kami — dan jika Anda ingin menjadi
+tuan rumah, [hubungi kami](contact.qmd).
 :::
 
 ## Acara Sebelumnya

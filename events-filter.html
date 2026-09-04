@@ -1,0 +1,78 @@
+<script>
+// Hide events whose last day has passed, and sort what remains soonest-first.
+//
+// This runs in the reader's browser rather than at render time on purpose.
+// The site has no scheduled build — docs/ is rendered and committed by hand —
+// so anything decided during `quarto render` would be frozen at the moment of
+// the last push and go stale as soon as a date passed. Evaluating on page load
+// means the list is correct on every visit without anyone touching the repo.
+//
+// Authoring contract (see the comment block in events.qmd):
+//   <div class="event-item" data-end="YYYY-MM-DD">  ← last day the event runs
+// An event with no data-end, or an unparseable one, is always shown: failing
+// visible is right here, since silently swallowing a real event is far worse
+// than showing a stale one.
+(function () {
+  function run() {
+    var items = document.querySelectorAll(".event-item[data-end], .event-item");
+    if (!items.length) return;
+
+    // Local midnight today. Comparing date-only avoids an event vanishing
+    // during the morning of the day it is actually happening.
+    var now = new Date();
+    var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+
+    var upcoming = [];
+    var container = null;
+
+    Array.prototype.forEach.call(items, function (el) {
+      if (!container) container = el.parentNode;
+
+      var raw = (el.getAttribute("data-end") || "").trim();
+      if (!raw) { upcoming.push({ el: el, time: Infinity }); return; }
+
+      var parts = raw.split("-");
+      if (parts.length !== 3) { upcoming.push({ el: el, time: Infinity }); return; }
+
+      var y = parseInt(parts[0], 10);
+      var m = parseInt(parts[1], 10);
+      var d = parseInt(parts[2], 10);
+      if (isNaN(y) || isNaN(m) || isNaN(d)) {
+        upcoming.push({ el: el, time: Infinity });
+        return;
+      }
+
+      // Construct in local time; `new Date("YYYY-MM-DD")` parses as UTC and
+      // would shift the day for readers in Indonesia (UTC+7 to +9).
+      var end = new Date(y, m - 1, d);
+
+      if (end < today) {
+        el.style.display = "none";
+        el.setAttribute("data-past", "true");
+      } else {
+        upcoming.push({ el: el, time: end.getTime() });
+      }
+    });
+
+    // Soonest first. Undated entries sort last (time = Infinity).
+    if (container) {
+      upcoming
+        .sort(function (a, b) { return a.time - b.time; })
+        .forEach(function (item) { container.appendChild(item.el); });
+    }
+
+    // Empty state, authored in the page so it is translated per language.
+    var empty = document.getElementById("no-upcoming-events");
+    if (empty) {
+      empty.style.display = upcoming.length ? "none" : "";
+      if (container && !upcoming.length) container.appendChild(empty);
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", run);
+  } else {
+    run();
+  }
+})();
+</script>

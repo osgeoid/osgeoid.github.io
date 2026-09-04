@@ -222,6 +222,23 @@ $font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe 
   margin-bottom: 2rem;
 }
 
+/* Empty state shown when every listed event has passed. Revealed by
+   events-filter.html; starts hidden inline so it never flashes on load. */
+.no-events {
+  padding: 2rem 1.5rem;
+  background: #F1F8E9;
+  border: 1px dashed #A5D6A7;
+  border-radius: 10px;
+  color: #33691E;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.no-events a {
+  color: #2E7D32;
+  font-weight: 600;
+}
+
 /* Event list */
 .event-item {
   display: flex;
