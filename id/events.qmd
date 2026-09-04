@@ -48,19 +48,6 @@ Informasi pendaftaran akan diumumkan melalui
 :::
 :::
 
-::: {.event-item data-end="2026-08-31"}
-::: {.event-date}
-[AGT]{.month}
-[TBA]{.day}
-:::
-::: {.event-info}
-#### Lokakarya PostGIS & Basis Data Spasial
-**Lokasi:** Tembalang, Semarang, Indonesia
-
-Pelajari cara mengelola dan menganalisis data geospasial menggunakan PostGIS dan PostgreSQL. Mencakup instalasi, kueri spasial, pengindeksan, dan integrasi dengan QGIS.
-:::
-:::
-
 ::: {.event-item data-end="2026-08-25"}
 ::: {.event-date}
 [AGT]{.month}

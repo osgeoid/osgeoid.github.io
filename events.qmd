@@ -49,19 +49,6 @@ Registration details will be announced on our
 :::
 :::
 
-::: {.event-item data-end="2026-08-31"}
-::: {.event-date}
-[AUG]{.month}
-[TBA]{.day}
-:::
-::: {.event-info}
-#### PostGIS & Spatial Database Workshop
-**Location:** Tembalang, Semarang, Indonesia
-
-Learn how to manage and analyze geospatial data using PostGIS and PostgreSQL. Covers installation, spatial queries, indexing, and integration with QGIS.
-:::
-:::
-
 ::: {.event-item data-end="2026-08-25"}
 ::: {.event-date}
 [AUG]{.month}
